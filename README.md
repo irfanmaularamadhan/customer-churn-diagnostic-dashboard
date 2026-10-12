@@ -36,11 +36,11 @@ Dataset yang digunakan dalam proyek ini diperoleh dari Kaggle:
 
 ### 1. Page 1 - Executive Overview
 Menampilkan indikator kinerja utama (KPI), distribusi churn pelanggan, analisis 10 pelanggan teratas, tren performa penjualan bulanan, serta tingkat recency pelanggan.
-![Executive Overview](documentation/Page%201.png)
+![Executive Overview](documentation/Page 1.png)
 
 ### 2. Page 2 - Root Cause Analysis
 Menampilkan analisis mendalam mengenai keterlambatan pengiriman, frekuensi pemesanan, rata-rata nilai transaksi per status pelanggan, biaya pengiriman, distribusi kategori produk, dan tingkat diskon.
-![Root Cause Analysis](documentation/Page%202.png)
+![Root Cause Analysis](documentation/Page%2.png)
 
 ## Struktur Repositori
 - Processed Query Data/ : Berisi tabel-tabel hasil transformasi query dan view agregasi data.
