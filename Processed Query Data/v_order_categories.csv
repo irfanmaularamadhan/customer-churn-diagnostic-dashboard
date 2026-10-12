@@ -1,0 +1,2156 @@
+"order_id","customer_id","category_name","is_churn"
+10248,VINET,Dairy Products,1
+10248,VINET,Grains & Cereals,1
+10248,VINET,Dairy Products,1
+10249,TOMSP,Produce,0
+10249,TOMSP,Produce,0
+10250,HANAR,Seafood,0
+10250,HANAR,Produce,0
+10250,HANAR,Condiments,0
+10251,VICTE,Grains & Cereals,1
+10251,VICTE,Grains & Cereals,1
+10251,VICTE,Condiments,1
+10252,SUPRD,Confections,0
+10252,SUPRD,Dairy Products,0
+10252,SUPRD,Dairy Products,0
+10253,HANAR,Dairy Products,0
+10253,HANAR,Beverages,0
+10253,HANAR,Confections,0
+10254,CHOPS,Beverages,0
+10254,CHOPS,Meat & Poultry,0
+10254,CHOPS,Produce,0
+10255,RICSU,Beverages,0
+10255,RICSU,Confections,0
+10255,RICSU,Seafood,0
+10255,RICSU,Dairy Products,0
+10256,WELLI,Meat & Poultry,0
+10256,WELLI,Condiments,0
+10257,HILAA,Confections,0
+10257,HILAA,Beverages,0
+10257,HILAA,Condiments,0
+10258,ERNSH,Beverages,0
+10258,ERNSH,Condiments,0
+10258,ERNSH,Dairy Products,0
+10259,CENTC,Confections,1
+10259,CENTC,Seafood,1
+10260,OTTIK,Seafood,0
+10260,OTTIK,Grains & Cereals,0
+10260,OTTIK,Confections,0
+10260,OTTIK,Beverages,0
+10261,QUEDE,Confections,0
+10261,QUEDE,Beverages,0
+10262,RATTC,Condiments,0
+10262,RATTC,Produce,0
+10262,RATTC,Grains & Cereals,0
+10263,ERNSH,Confections,0
+10263,ERNSH,Beverages,0
+10263,ERNSH,Seafood,0
+10263,ERNSH,Produce,0
+10264,FOLKO,Beverages,0
+10264,FOLKO,Seafood,0
+10265,BLONP,Meat & Poultry,1
+10265,BLONP,Beverages,1
+10266,WARTH,Dairy Products,0
+10267,FRANK,Seafood,0
+10267,FRANK,Dairy Products,0
+10267,FRANK,Beverages,0
+10268,GROSR,Meat & Poultry,1
+10268,GROSR,Dairy Products,1
+10269,WHITC,Dairy Products,0
+10269,WHITC,Dairy Products,0
+10270,WARTH,Seafood,0
+10270,WARTH,Beverages,0
+10271,SPLIR,Dairy Products,0
+10272,RATTC,Confections,0
+10272,RATTC,Dairy Products,0
+10272,RATTC,Dairy Products,0
+10273,QUICK,Seafood,0
+10273,QUICK,Dairy Products,0
+10273,QUICK,Dairy Products,0
+10273,QUICK,Seafood,0
+10273,QUICK,Beverages,0
+10274,VINET,Dairy Products,1
+10274,VINET,Dairy Products,1
+10275,MAGAA,Beverages,0
+10275,MAGAA,Dairy Products,0
+10276,TORTU,Seafood,0
+10276,TORTU,Seafood,0
+10277,MORGK,Produce,0
+10277,MORGK,Confections,0
+10278,BERGS,Condiments,0
+10278,BERGS,Dairy Products,0
+10278,BERGS,Condiments,0
+10278,BERGS,Seafood,0
+10279,LEHMS,Meat & Poultry,0
+10280,BERGS,Beverages,0
+10280,BERGS,Meat & Poultry,0
+10280,BERGS,Beverages,0
+10281,ROMEY,Confections,0
+10281,ROMEY,Beverages,0
+10281,ROMEY,Beverages,0
+10282,ROMEY,Seafood,0
+10282,ROMEY,Grains & Cereals,0
+10283,LILAS,Condiments,0
+10283,LILAS,Confections,0
+10283,LILAS,Dairy Products,0
+10283,LILAS,Dairy Products,0
+10284,LEHMS,Confections,0
+10284,LEHMS,Condiments,0
+10284,LEHMS,Dairy Products,0
+10284,LEHMS,Beverages,0
+10285,QUICK,Beverages,0
+10285,QUICK,Seafood,0
+10285,QUICK,Meat & Poultry,0
+10286,QUICK,Beverages,0
+10286,QUICK,Confections,0
+10287,RICAR,Confections,0
+10287,RICAR,Beverages,0
+10287,RICAR,Seafood,0
+10288,REGGC,Meat & Poultry,0
+10288,REGGC,Confections,0
+10289,BSBEV,Condiments,0
+10289,BSBEV,Grains & Cereals,0
+10290,COMMI,Condiments,0
+10290,COMMI,Meat & Poultry,0
+10290,COMMI,Confections,0
+10290,COMMI,Condiments,0
+10291,QUEDE,Seafood,0
+10291,QUEDE,Condiments,0
+10291,QUEDE,Produce,0
+10292,TRADH,Confections,1
+10293,TORTU,Seafood,0
+10293,TORTU,Beverages,0
+10293,TORTU,Condiments,0
+10293,TORTU,Beverages,0
+10294,RATTC,Beverages,0
+10294,RATTC,Meat & Poultry,0
+10294,RATTC,Beverages,0
+10294,RATTC,Dairy Products,0
+10294,RATTC,Beverages,0
+10295,VINET,Grains & Cereals,1
+10296,LILAS,Dairy Products,0
+10296,LILAS,Confections,0
+10296,LILAS,Dairy Products,0
+10297,BLONP,Beverages,1
+10297,BLONP,Dairy Products,1
+10298,HUNGO,Beverages,0
+10298,HUNGO,Seafood,0
+10298,HUNGO,Dairy Products,0
+10298,HUNGO,Confections,0
+10299,RICAR,Confections,0
+10299,RICAR,Beverages,0
+10300,MAGAA,Condiments,0
+10300,MAGAA,Confections,0
+10301,WANDK,Seafood,0
+10301,WANDK,Grains & Cereals,0
+10302,SUPRD,Meat & Poultry,0
+10302,SUPRD,Produce,0
+10302,SUPRD,Beverages,0
+10303,GODOS,Seafood,0
+10303,GODOS,Condiments,0
+10303,GODOS,Confections,0
+10304,TORTU,Confections,0
+10304,TORTU,Dairy Products,0
+10304,TORTU,Dairy Products,0
+10305,OLDWO,Seafood,0
+10305,OLDWO,Meat & Poultry,0
+10305,OLDWO,Beverages,0
+10306,ROMEY,Seafood,0
+10306,ROMEY,Meat & Poultry,0
+10306,ROMEY,Meat & Poultry,0
+10307,LONEP,Confections,0
+10307,LONEP,Confections,0
+10308,ANATR,Dairy Products,0
+10308,ANATR,Beverages,0
+10309,HUNGO,Condiments,0
+10309,HUNGO,Condiments,0
+10309,HUNGO,Grains & Cereals,0
+10309,HUNGO,Beverages,0
+10309,HUNGO,Dairy Products,0
+10310,THEBI,Confections,0
+10310,THEBI,Confections,0
+10311,DUMON,Grains & Cereals,0
+10311,DUMON,Dairy Products,0
+10312,WANDK,Produce,0
+10312,WANDK,Beverages,0
+10312,WANDK,Meat & Poultry,0
+10312,WANDK,Beverages,0
+10313,QUICK,Seafood,0
+10314,RATTC,Dairy Products,0
+10314,RATTC,Seafood,0
+10314,RATTC,Confections,0
+10315,ISLAT,Beverages,0
+10315,ISLAT,Beverages,0
+10316,RATTC,Seafood,0
+10316,RATTC,Confections,0
+10317,LONEP,Beverages,0
+10318,ISLAT,Seafood,0
+10318,ISLAT,Beverages,0
+10319,TORTU,Meat & Poultry,0
+10319,TORTU,Produce,0
+10319,TORTU,Beverages,0
+10320,WARTH,Dairy Products,0
+10321,ISLAT,Beverages,0
+10322,PERIC,Grains & Cereals,0
+10323,KOENE,Condiments,0
+10323,KOENE,Confections,0
+10323,KOENE,Beverages,0
+10324,SAVEA,Confections,0
+10324,SAVEA,Beverages,0
+10324,SAVEA,Seafood,0
+10324,SAVEA,Dairy Products,0
+10324,SAVEA,Condiments,0
+10325,KOENE,Condiments,0
+10325,KOENE,Seafood,0
+10325,KOENE,Produce,0
+10325,KOENE,Dairy Products,0
+10325,KOENE,Dairy Products,0
+10326,BOLID,Condiments,0
+10326,BOLID,Grains & Cereals,0
+10326,BOLID,Beverages,0
+10327,FOLKO,Beverages,0
+10327,FOLKO,Dairy Products,0
+10327,FOLKO,Seafood,0
+10327,FOLKO,Seafood,0
+10328,FURIB,Dairy Products,0
+10328,FURIB,Condiments,0
+10328,FURIB,Confections,0
+10329,SPLIR,Confections,0
+10329,SPLIR,Seafood,0
+10329,SPLIR,Beverages,0
+10329,SPLIR,Grains & Cereals,0
+10330,LILAS,Confections,0
+10330,LILAS,Dairy Products,0
+10331,BONAP,Meat & Poultry,0
+10332,MEREP,Seafood,1
+10332,MEREP,Grains & Cereals,1
+10332,MEREP,Confections,1
+10333,WARTH,Produce,0
+10333,WARTH,Confections,0
+10333,WARTH,Dairy Products,0
+10334,VICTE,Grains & Cereals,1
+10334,VICTE,Confections,1
+10335,HUNGO,Beverages,0
+10335,HUNGO,Dairy Products,0
+10335,HUNGO,Dairy Products,0
+10335,HUNGO,Produce,0
+10336,PRINI,Condiments,0
+10337,FRANK,Grains & Cereals,0
+10337,FRANK,Confections,0
+10337,FRANK,Seafood,0
+10337,FRANK,Seafood,0
+10337,FRANK,Dairy Products,0
+10338,OLDWO,Meat & Poultry,0
+10338,OLDWO,Seafood,0
+10339,MEREP,Condiments,1
+10339,MEREP,Meat & Poultry,1
+10339,MEREP,Confections,1
+10340,BONAP,Seafood,0
+10340,BONAP,Seafood,0
+10340,BONAP,Beverages,0
+10341,SIMOB,Dairy Products,0
+10341,SIMOB,Dairy Products,0
+10342,FRANK,Beverages,0
+10342,FRANK,Dairy Products,0
+10342,FRANK,Seafood,0
+10342,FRANK,Meat & Poultry,0
+10343,LEHMS,Grains & Cereals,0
+10343,LEHMS,Confections,0
+10343,LEHMS,Beverages,0
+10344,WHITC,Condiments,0
+10344,WHITC,Condiments,0
+10345,QUICK,Condiments,0
+10345,QUICK,Confections,0
+10345,QUICK,Grains & Cereals,0
+10346,RATTC,Meat & Poultry,0
+10346,RATTC,Grains & Cereals,0
+10347,FAMIA,Confections,1
+10347,FAMIA,Beverages,1
+10347,FAMIA,Seafood,1
+10347,FAMIA,Beverages,1
+10348,WANDK,Beverages,0
+10348,WANDK,Grains & Cereals,0
+10349,SPLIR,Meat & Poultry,0
+10350,LAMAI,Confections,0
+10350,LAMAI,Dairy Products,0
+10351,ERNSH,Beverages,0
+10351,ERNSH,Seafood,0
+10351,ERNSH,Condiments,0
+10351,ERNSH,Condiments,0
+10352,FURIB,Beverages,0
+10352,FURIB,Meat & Poultry,0
+10353,PICCO,Dairy Products,0
+10353,PICCO,Beverages,0
+10354,PERIC,Beverages,0
+10354,PERIC,Meat & Poultry,0
+10355,AROUT,Beverages,0
+10355,AROUT,Grains & Cereals,0
+10356,WANDK,Dairy Products,0
+10356,WANDK,Meat & Poultry,0
+10356,WANDK,Dairy Products,0
+10357,LILAS,Seafood,0
+10357,LILAS,Confections,0
+10357,LILAS,Dairy Products,0
+10358,LAMAI,Beverages,0
+10358,LAMAI,Beverages,0
+10358,LAMAI,Seafood,0
+10359,SEVES,Confections,1
+10359,SEVES,Dairy Products,1
+10359,SEVES,Dairy Products,1
+10360,BLONP,Produce,1
+10360,BLONP,Meat & Poultry,1
+10360,BLONP,Beverages,1
+10360,BLONP,Confections,1
+10360,BLONP,Meat & Poultry,1
+10361,QUICK,Beverages,0
+10361,QUICK,Dairy Products,0
+10362,BONAP,Confections,0
+10362,BONAP,Produce,0
+10362,BONAP,Meat & Poultry,0
+10363,DRACD,Dairy Products,0
+10363,DRACD,Beverages,0
+10363,DRACD,Beverages,0
+10364,EASTC,Dairy Products,0
+10364,EASTC,Dairy Products,0
+10365,ANTON,Dairy Products,1
+10366,GALED,Condiments,0
+10366,GALED,Condiments,0
+10367,VAFFE,Beverages,0
+10367,VAFFE,Meat & Poultry,0
+10367,VAFFE,Condiments,0
+10367,VAFFE,Condiments,0
+10368,ERNSH,Confections,0
+10368,ERNSH,Produce,0
+10368,ERNSH,Grains & Cereals,0
+10368,ERNSH,Grains & Cereals,0
+10369,SPLIR,Meat & Poultry,0
+10369,SPLIR,Grains & Cereals,0
+10370,CHOPS,Beverages,0
+10370,CHOPS,Grains & Cereals,0
+10370,CHOPS,Produce,0
+10371,LAMAI,Seafood,0
+10372,QUEEN,Confections,0
+10372,QUEEN,Beverages,0
+10372,QUEEN,Dairy Products,0
+10372,QUEEN,Dairy Products,0
+10373,HUNGO,Seafood,0
+10373,HUNGO,Dairy Products,0
+10374,WOLZA,Dairy Products,0
+10374,WOLZA,Seafood,0
+10375,HUNGC,Produce,1
+10375,HUNGC,Meat & Poultry,1
+10376,MEREP,Dairy Products,1
+10377,SEVES,Produce,1
+10377,SEVES,Beverages,1
+10378,FOLKO,Dairy Products,0
+10379,QUEDE,Seafood,0
+10379,QUEDE,Condiments,0
+10379,QUEDE,Condiments,0
+10380,HUNGO,Seafood,0
+10380,HUNGO,Meat & Poultry,0
+10380,HUNGO,Dairy Products,0
+10380,HUNGO,Beverages,0
+10381,LILAS,Produce,0
+10382,ERNSH,Condiments,0
+10382,ERNSH,Seafood,0
+10382,ERNSH,Meat & Poultry,0
+10382,ERNSH,Dairy Products,0
+10382,ERNSH,Produce,0
+10383,AROUT,Seafood,0
+10383,AROUT,Confections,0
+10383,AROUT,Grains & Cereals,0
+10384,BERGS,Confections,0
+10384,BERGS,Dairy Products,0
+10385,SPLIR,Produce,0
+10385,SPLIR,Dairy Products,0
+10385,SPLIR,Confections,0
+10386,FAMIA,Beverages,1
+10386,FAMIA,Beverages,1
+10387,SANTG,Beverages,0
+10387,SANTG,Produce,0
+10387,SANTG,Dairy Products,0
+10387,SANTG,Dairy Products,0
+10388,SEVES,Seafood,1
+10388,SEVES,Grains & Cereals,1
+10388,SEVES,Meat & Poultry,1
+10389,BOTTM,Seafood,0
+10389,BOTTM,Meat & Poultry,0
+10389,BOTTM,Confections,0
+10389,BOTTM,Beverages,0
+10390,ERNSH,Dairy Products,0
+10390,ERNSH,Beverages,0
+10390,ERNSH,Seafood,0
+10390,ERNSH,Dairy Products,0
+10391,DRACD,Seafood,0
+10392,PICCO,Dairy Products,0
+10393,SAVEA,Beverages,0
+10393,SAVEA,Produce,0
+10393,SAVEA,Confections,0
+10393,SAVEA,Confections,0
+10393,SAVEA,Dairy Products,0
+10394,HUNGC,Seafood,1
+10394,HUNGC,Confections,1
+10395,HILAA,Seafood,0
+10395,HILAA,Meat & Poultry,0
+10395,HILAA,Dairy Products,0
+10396,FRANK,Grains & Cereals,0
+10396,FRANK,Dairy Products,0
+10396,FRANK,Dairy Products,0
+10397,PRINI,Confections,0
+10397,PRINI,Produce,0
+10398,SAVEA,Beverages,0
+10398,SAVEA,Meat & Poultry,0
+10399,VAFFE,Confections,0
+10399,VAFFE,Dairy Products,0
+10399,VAFFE,Beverages,0
+10399,VAFFE,Condiments,0
+10400,EASTC,Meat & Poultry,0
+10400,EASTC,Beverages,0
+10400,EASTC,Confections,0
+10401,RATTC,Seafood,0
+10401,RATTC,Grains & Cereals,0
+10401,RATTC,Condiments,0
+10401,RATTC,Dairy Products,0
+10402,ERNSH,Grains & Cereals,0
+10402,ERNSH,Condiments,0
+10403,ERNSH,Confections,0
+10403,ERNSH,Confections,0
+10404,MAGAA,Confections,0
+10404,MAGAA,Grains & Cereals,0
+10404,MAGAA,Confections,0
+10405,LINOD,Condiments,0
+10406,QUEEN,Beverages,0
+10406,QUEEN,Confections,0
+10406,QUEEN,Produce,0
+10406,QUEEN,Seafood,0
+10406,QUEEN,Seafood,0
+10407,OTTIK,Dairy Products,0
+10407,OTTIK,Dairy Products,0
+10407,OTTIK,Dairy Products,0
+10408,FOLIG,Seafood,1
+10408,FOLIG,Meat & Poultry,1
+10408,FOLIG,Confections,1
+10409,OCEAN,Produce,0
+10409,OCEAN,Confections,0
+10410,BOTTM,Dairy Products,0
+10410,BOTTM,Dairy Products,0
+10411,BOTTM,Seafood,0
+10411,BOTTM,Condiments,0
+10411,BOTTM,Dairy Products,0
+10412,WARTH,Produce,0
+10413,LAMAI,Beverages,0
+10413,LAMAI,Confections,0
+10413,LAMAI,Beverages,0
+10414,FAMIA,Confections,1
+10414,FAMIA,Dairy Products,1
+10415,HUNGC,Meat & Poultry,1
+10415,HUNGC,Dairy Products,1
+10416,WARTH,Confections,0
+10416,WARTH,Meat & Poultry,0
+10416,WARTH,Grains & Cereals,0
+10417,SIMOB,Beverages,0
+10417,SIMOB,Seafood,0
+10417,SIMOB,Confections,0
+10417,SIMOB,Condiments,0
+10418,QUICK,Beverages,0
+10418,QUICK,Confections,0
+10418,QUICK,Condiments,0
+10418,QUICK,Produce,0
+10419,RICSU,Dairy Products,0
+10419,RICSU,Dairy Products,0
+10420,WELLI,Meat & Poultry,0
+10420,WELLI,Seafood,0
+10420,WELLI,Beverages,0
+10420,WELLI,Seafood,0
+10421,QUEDE,Confections,0
+10421,QUEDE,Confections,0
+10421,QUEDE,Meat & Poultry,0
+10421,QUEDE,Condiments,0
+10422,FRANS,Confections,0
+10423,GOURL,Dairy Products,0
+10423,GOURL,Dairy Products,0
+10424,MEREP,Beverages,1
+10424,MEREP,Beverages,1
+10424,MEREP,Confections,1
+10425,LAMAI,Meat & Poultry,0
+10425,LAMAI,Beverages,0
+10426,GALED,Grains & Cereals,0
+10426,GALED,Grains & Cereals,0
+10427,PICCO,Produce,0
+10428,REGGC,Seafood,0
+10429,HUNGO,Confections,0
+10429,HUNGO,Condiments,0
+10430,ERNSH,Meat & Poultry,0
+10430,ERNSH,Confections,0
+10430,ERNSH,Grains & Cereals,0
+10430,ERNSH,Dairy Products,0
+10431,BOTTM,Meat & Poultry,0
+10431,BOTTM,Seafood,0
+10431,BOTTM,Confections,0
+10432,SPLIR,Confections,0
+10432,SPLIR,Meat & Poultry,0
+10433,PRINI,Grains & Cereals,0
+10434,FOLKO,Dairy Products,0
+10434,FOLKO,Beverages,0
+10435,CONSH,Beverages,1
+10435,CONSH,Grains & Cereals,1
+10435,CONSH,Dairy Products,1
+10436,BLONP,Seafood,1
+10436,BLONP,Grains & Cereals,1
+10436,BLONP,Grains & Cereals,1
+10436,BLONP,Beverages,1
+10437,WARTH,Meat & Poultry,0
+10438,TOMSP,Confections,0
+10438,TOMSP,Beverages,0
+10438,TOMSP,Grains & Cereals,0
+10439,MEREP,Dairy Products,1
+10439,MEREP,Confections,1
+10439,MEREP,Grains & Cereals,1
+10439,MEREP,Produce,1
+10440,SAVEA,Beverages,0
+10440,SAVEA,Confections,0
+10440,SAVEA,Meat & Poultry,0
+10440,SAVEA,Condiments,0
+10441,OLDWO,Confections,0
+10442,ERNSH,Dairy Products,0
+10442,ERNSH,Meat & Poultry,0
+10442,ERNSH,Condiments,0
+10443,REGGC,Dairy Products,0
+10443,REGGC,Produce,0
+10444,BERGS,Meat & Poultry,0
+10444,BERGS,Confections,0
+10444,BERGS,Beverages,0
+10444,BERGS,Seafood,0
+10445,BERGS,Beverages,0
+10445,BERGS,Meat & Poultry,0
+10446,TOMSP,Confections,0
+10446,TOMSP,Beverages,0
+10446,TOMSP,Dairy Products,0
+10446,TOMSP,Grains & Cereals,0
+10447,RICAR,Confections,0
+10447,RICAR,Condiments,0
+10447,RICAR,Dairy Products,0
+10448,RANCH,Confections,0
+10448,RANCH,Seafood,0
+10449,BLONP,Seafood,1
+10449,BLONP,Grains & Cereals,1
+10449,BLONP,Confections,1
+10450,VICTE,Seafood,1
+10450,VICTE,Meat & Poultry,1
+10451,QUICK,Meat & Poultry,0
+10451,QUICK,Grains & Cereals,0
+10451,QUICK,Condiments,0
+10451,QUICK,Condiments,0
+10452,SAVEA,Produce,0
+10452,SAVEA,Condiments,0
+10453,AROUT,Confections,0
+10453,AROUT,Beverages,0
+10454,LAMAI,Confections,0
+10454,LAMAI,Dairy Products,0
+10454,LAMAI,Seafood,0
+10455,WARTH,Beverages,0
+10455,WARTH,Meat & Poultry,0
+10455,WARTH,Condiments,0
+10455,WARTH,Dairy Products,0
+10456,KOENE,Confections,0
+10456,KOENE,Confections,0
+10457,KOENE,Dairy Products,0
+10458,SUPRD,Confections,0
+10458,SUPRD,Produce,0
+10458,SUPRD,Beverages,0
+10458,SUPRD,Grains & Cereals,0
+10458,SUPRD,Dairy Products,0
+10459,VICTE,Produce,1
+10459,VICTE,Seafood,1
+10459,VICTE,Dairy Products,1
+10460,FOLKO,Confections,0
+10460,FOLKO,Beverages,0
+10461,LILAS,Confections,0
+10461,LILAS,Seafood,0
+10461,LILAS,Meat & Poultry,0
+10462,CONSH,Seafood,1
+10462,CONSH,Grains & Cereals,1
+10463,SUPRD,Confections,0
+10463,SUPRD,Grains & Cereals,0
+10464,FURIB,Condiments,0
+10464,FURIB,Beverages,0
+10464,FURIB,Grains & Cereals,0
+10464,FURIB,Dairy Products,0
+10465,VAFFE,Beverages,0
+10465,VAFFE,Meat & Poultry,0
+10465,VAFFE,Seafood,0
+10465,VAFFE,Seafood,0
+10465,VAFFE,Confections,0
+10466,COMMI,Dairy Products,0
+10466,COMMI,Seafood,0
+10467,MAGAA,Beverages,0
+10467,MAGAA,Confections,0
+10468,KOENE,Seafood,0
+10468,KOENE,Beverages,0
+10469,WHITC,Beverages,0
+10469,WHITC,Confections,0
+10469,WHITC,Condiments,0
+10470,BONAP,Seafood,0
+10470,BONAP,Grains & Cereals,0
+10470,BONAP,Grains & Cereals,0
+10471,BSBEV,Produce,0
+10471,BSBEV,Grains & Cereals,0
+10472,SEVES,Beverages,1
+10472,SEVES,Produce,1
+10473,ISLAT,Dairy Products,0
+10473,ISLAT,Dairy Products,0
+10474,PERIC,Produce,0
+10474,PERIC,Produce,0
+10474,PERIC,Seafood,0
+10474,PERIC,Beverages,0
+10475,SUPRD,Dairy Products,0
+10475,SUPRD,Condiments,0
+10475,SUPRD,Beverages,0
+10476,HILAA,Meat & Poultry,0
+10476,HILAA,Beverages,0
+10477,PRINI,Beverages,0
+10477,PRINI,Confections,0
+10477,PRINI,Beverages,0
+10478,VICTE,Seafood,1
+10479,RATTC,Beverages,0
+10479,RATTC,Meat & Poultry,0
+10479,RATTC,Dairy Products,0
+10479,RATTC,Grains & Cereals,0
+10480,FOLIG,Confections,1
+10480,FOLIG,Dairy Products,1
+10481,RICAR,Confections,0
+10481,RICAR,Dairy Products,0
+10482,LAZYK,Seafood,1
+10483,WHITC,Beverages,0
+10483,WHITC,Condiments,0
+10484,BSBEV,Confections,0
+10484,BSBEV,Seafood,0
+10484,BSBEV,Produce,0
+10485,LINOD,Beverages,0
+10485,LINOD,Condiments,0
+10485,LINOD,Meat & Poultry,0
+10485,LINOD,Beverages,0
+10486,HILAA,Dairy Products,0
+10486,HILAA,Produce,0
+10486,HILAA,Produce,0
+10487,QUEEN,Confections,0
+10487,QUEEN,Confections,0
+10487,QUEEN,Meat & Poultry,0
+10488,FRANK,Dairy Products,0
+10488,FRANK,Seafood,0
+10489,PICCO,Dairy Products,0
+10489,PICCO,Confections,0
+10490,HILAA,Dairy Products,0
+10490,HILAA,Confections,0
+10490,HILAA,Beverages,0
+10491,FURIB,Condiments,0
+10491,FURIB,Condiments,0
+10492,BOTTM,Confections,0
+10492,BOTTM,Grains & Cereals,0
+10493,LAMAI,Condiments,0
+10493,LAMAI,Condiments,0
+10493,LAMAI,Dairy Products,0
+10494,COMMI,Grains & Cereals,0
+10495,LAUGB,Grains & Cereals,1
+10495,LAUGB,Seafood,1
+10495,LAUGB,Condiments,1
+10496,TRADH,Dairy Products,1
+10497,LEHMS,Grains & Cereals,0
+10497,LEHMS,Dairy Products,0
+10497,LEHMS,Condiments,0
+10498,HILAA,Beverages,0
+10498,HILAA,Seafood,0
+10498,HILAA,Grains & Cereals,0
+10499,LILAS,Produce,0
+10499,LILAS,Confections,0
+10500,LAMAI,Condiments,0
+10500,LAMAI,Produce,0
+10501,BLAUS,Meat & Poultry,0
+10502,PERIC,Seafood,0
+10502,PERIC,Meat & Poultry,0
+10502,PERIC,Beverages,0
+10503,HUNGO,Produce,0
+10503,HUNGO,Condiments,0
+10504,WHITC,Beverages,0
+10504,WHITC,Confections,0
+10504,WHITC,Meat & Poultry,0
+10504,WHITC,Condiments,0
+10505,MEREP,Confections,1
+10506,KOENE,Confections,0
+10506,KOENE,Beverages,0
+10507,ANTON,Beverages,1
+10507,ANTON,Confections,1
+10508,OTTIK,Seafood,0
+10508,OTTIK,Beverages,0
+10509,BLAUS,Produce,0
+10510,SAVEA,Meat & Poultry,0
+10510,SAVEA,Beverages,0
+10511,BONAP,Condiments,0
+10511,BONAP,Produce,0
+10511,BONAP,Condiments,0
+10512,FAMIA,Beverages,1
+10512,FAMIA,Seafood,1
+10512,FAMIA,Confections,1
+10512,FAMIA,Dairy Products,1
+10513,WANDK,Confections,0
+10513,WANDK,Dairy Products,0
+10513,WANDK,Condiments,0
+10514,ERNSH,Confections,0
+10514,ERNSH,Produce,0
+10514,ERNSH,Grains & Cereals,0
+10514,ERNSH,Condiments,0
+10514,ERNSH,Beverages,0
+10515,QUICK,Meat & Poultry,0
+10515,QUICK,Confections,0
+10515,QUICK,Confections,0
+10515,QUICK,Dairy Products,0
+10515,QUICK,Dairy Products,0
+10516,HUNGO,Seafood,0
+10516,HUNGO,Seafood,0
+10516,HUNGO,Grains & Cereals,0
+10517,NORTS,Grains & Cereals,0
+10517,NORTS,Dairy Products,0
+10517,NORTS,Beverages,0
+10518,TORTU,Beverages,0
+10518,TORTU,Beverages,0
+10518,TORTU,Condiments,0
+10519,CHOPS,Seafood,0
+10519,CHOPS,Grains & Cereals,0
+10519,CHOPS,Dairy Products,0
+10520,SANTG,Beverages,0
+10520,SANTG,Meat & Poultry,0
+10521,CACTU,Beverages,0
+10521,CACTU,Seafood,0
+10521,CACTU,Confections,0
+10522,LEHMS,Beverages,0
+10522,LEHMS,Condiments,0
+10522,LEHMS,Seafood,0
+10522,LEHMS,Seafood,0
+10523,SEVES,Meat & Poultry,1
+10523,SEVES,Confections,1
+10523,SEVES,Seafood,1
+10523,SEVES,Seafood,1
+10524,BERGS,Seafood,0
+10524,BERGS,Seafood,0
+10524,BERGS,Beverages,0
+10524,BERGS,Meat & Poultry,0
+10525,BONAP,Seafood,0
+10525,BONAP,Seafood,0
+10526,WARTH,Beverages,0
+10526,WARTH,Seafood,0
+10526,WARTH,Grains & Cereals,0
+10527,QUICK,Condiments,0
+10527,QUICK,Seafood,0
+10528,GREAL,Dairy Products,0
+10528,GREAL,Dairy Products,0
+10528,GREAL,Dairy Products,0
+10529,MAISD,Meat & Poultry,0
+10529,MAISD,Confections,0
+10529,MAISD,Dairy Products,0
+10530,PICCO,Meat & Poultry,0
+10530,PICCO,Beverages,0
+10530,PICCO,Condiments,0
+10530,PICCO,Beverages,0
+10531,OCEAN,Dairy Products,0
+10532,EASTC,Seafood,0
+10532,EASTC,Condiments,0
+10533,FOLKO,Condiments,0
+10533,FOLKO,Dairy Products,0
+10533,FOLKO,Seafood,0
+10534,LEHMS,Seafood,0
+10534,LEHMS,Seafood,0
+10534,LEHMS,Meat & Poultry,0
+10535,ANTON,Dairy Products,1
+10535,ANTON,Seafood,1
+10535,ANTON,Grains & Cereals,1
+10535,ANTON,Dairy Products,1
+10536,LEHMS,Dairy Products,0
+10536,LEHMS,Dairy Products,0
+10536,LEHMS,Dairy Products,0
+10536,LEHMS,Dairy Products,0
+10537,RICSU,Dairy Products,0
+10537,RICSU,Produce,0
+10537,RICSU,Seafood,0
+10537,RICSU,Dairy Products,0
+10537,RICSU,Seafood,0
+10538,BSBEV,Beverages,0
+10538,BSBEV,Dairy Products,0
+10539,BSBEV,Seafood,0
+10539,BSBEV,Confections,0
+10539,BSBEV,Dairy Products,0
+10539,BSBEV,Confections,0
+10540,QUICK,Condiments,0
+10540,QUICK,Confections,0
+10540,QUICK,Beverages,0
+10540,QUICK,Confections,0
+10541,HANAR,Beverages,0
+10541,HANAR,Beverages,0
+10541,HANAR,Condiments,0
+10541,HANAR,Dairy Products,0
+10542,KOENE,Dairy Products,0
+10542,KOENE,Meat & Poultry,0
+10543,LILAS,Dairy Products,0
+10543,LILAS,Grains & Cereals,0
+10544,LONEP,Produce,0
+10544,LONEP,Beverages,0
+10545,LAZYK,Dairy Products,1
+10546,VICTE,Produce,1
+10546,VICTE,Beverages,1
+10546,VICTE,Confections,1
+10547,SEVES,Dairy Products,1
+10547,SEVES,Seafood,1
+10548,TOMSP,Beverages,0
+10548,TOMSP,Seafood,0
+10549,QUICK,Dairy Products,0
+10549,QUICK,Seafood,0
+10549,QUICK,Produce,0
+10550,GODOS,Meat & Poultry,0
+10550,GODOS,Confections,0
+10550,GODOS,Confections,0
+10550,GODOS,Condiments,0
+10551,FURIB,Confections,0
+10551,FURIB,Beverages,0
+10551,FURIB,Condiments,0
+10552,HILAA,Dairy Products,0
+10552,HILAA,Beverages,0
+10553,WARTH,Dairy Products,0
+10553,WARTH,Confections,0
+10553,WARTH,Grains & Cereals,0
+10553,WARTH,Dairy Products,0
+10553,WARTH,Beverages,0
+10554,OTTIK,Confections,0
+10554,OTTIK,Grains & Cereals,0
+10554,OTTIK,Confections,0
+10554,OTTIK,Condiments,0
+10555,SAVEA,Produce,0
+10555,SAVEA,Confections,0
+10555,SAVEA,Beverages,0
+10555,SAVEA,Produce,0
+10555,SAVEA,Grains & Cereals,0
+10556,SIMOB,Dairy Products,0
+10557,LEHMS,Grains & Cereals,0
+10557,LEHMS,Beverages,0
+10558,AROUT,Confections,0
+10558,AROUT,Produce,0
+10558,AROUT,Grains & Cereals,0
+10558,AROUT,Meat & Poultry,0
+10558,AROUT,Seafood,0
+10559,BLONP,Seafood,1
+10559,BLONP,Meat & Poultry,1
+10560,FRANK,Seafood,0
+10560,FRANK,Confections,0
+10561,FOLKO,Condiments,0
+10561,FOLKO,Produce,0
+10562,REGGC,Dairy Products,0
+10562,REGGC,Confections,0
+10563,RICAR,Seafood,0
+10563,RICAR,Grains & Cereals,0
+10564,RATTC,Meat & Poultry,0
+10564,RATTC,Dairy Products,0
+10564,RATTC,Meat & Poultry,0
+10565,MEREP,Beverages,1
+10565,MEREP,Grains & Cereals,1
+10566,BLONP,Dairy Products,1
+10566,BLONP,Seafood,1
+10566,BLONP,Beverages,1
+10567,HUNGO,Dairy Products,0
+10567,HUNGO,Produce,0
+10567,HUNGO,Dairy Products,0
+10568,GALED,Seafood,0
+10569,RATTC,Dairy Products,0
+10569,RATTC,Beverages,0
+10570,MEREP,Dairy Products,1
+10570,MEREP,Grains & Cereals,1
+10571,ERNSH,Produce,0
+10571,ERNSH,Grains & Cereals,0
+10572,BERGS,Confections,0
+10572,BERGS,Dairy Products,0
+10572,BERGS,Seafood,0
+10572,BERGS,Beverages,0
+10573,ANTON,Meat & Poultry,1
+10573,ANTON,Beverages,1
+10573,ANTON,Meat & Poultry,1
+10574,TRAIH,Dairy Products,1
+10574,TRAIH,Seafood,1
+10574,TRAIH,Confections,1
+10574,TRAIH,Grains & Cereals,1
+10575,MORGK,Dairy Products,0
+10575,MORGK,Condiments,0
+10575,MORGK,Dairy Products,0
+10575,MORGK,Beverages,0
+10576,TORTU,Beverages,0
+10576,TORTU,Dairy Products,0
+10576,TORTU,Condiments,0
+10577,TRAIH,Beverages,1
+10577,TRAIH,Beverages,1
+10577,TRAIH,Condiments,1
+10578,BSBEV,Beverages,0
+10578,BSBEV,Grains & Cereals,0
+10579,LETSS,Condiments,0
+10579,LETSS,Beverages,0
+10580,OTTIK,Produce,0
+10580,OTTIK,Seafood,0
+10580,OTTIK,Condiments,0
+10581,FAMIA,Beverages,1
+10582,BLAUS,Grains & Cereals,0
+10582,BLAUS,Beverages,0
+10583,WARTH,Meat & Poultry,0
+10583,WARTH,Dairy Products,0
+10583,WARTH,Dairy Products,0
+10584,BLONP,Dairy Products,1
+10585,WELLI,Confections,0
+10586,REGGC,Grains & Cereals,0
+10587,QUEDE,Confections,0
+10587,QUEDE,Beverages,0
+10587,QUEDE,Condiments,0
+10588,QUICK,Seafood,0
+10588,QUICK,Grains & Cereals,0
+10589,GREAL,Beverages,0
+10590,MEREP,Beverages,1
+10590,MEREP,Condiments,1
+10591,VAFFE,Condiments,0
+10591,VAFFE,Produce,0
+10591,VAFFE,Meat & Poultry,0
+10592,LEHMS,Condiments,0
+10592,LEHMS,Confections,0
+10593,LEHMS,Confections,0
+10593,LEHMS,Dairy Products,0
+10593,LEHMS,Beverages,0
+10594,OLDWO,Grains & Cereals,0
+10594,OLDWO,Seafood,0
+10595,ERNSH,Beverages,0
+10595,ERNSH,Condiments,0
+10595,ERNSH,Dairy Products,0
+10596,WHITC,Grains & Cereals,0
+10596,WHITC,Condiments,0
+10596,WHITC,Beverages,0
+10597,PICCO,Beverages,0
+10597,PICCO,Grains & Cereals,0
+10597,PICCO,Condiments,0
+10598,RATTC,Confections,0
+10598,RATTC,Dairy Products,0
+10599,BSBEV,Confections,0
+10600,HUNGC,Meat & Poultry,1
+10600,HUNGC,Seafood,1
+10601,HILAA,Seafood,0
+10601,HILAA,Dairy Products,0
+10602,VAFFE,Condiments,0
+10603,SAVEA,Grains & Cereals,0
+10603,SAVEA,Confections,0
+10604,FURIB,Confections,0
+10604,FURIB,Beverages,0
+10605,MEREP,Confections,1
+10605,MEREP,Dairy Products,1
+10605,MEREP,Dairy Products,1
+10605,MEREP,Dairy Products,1
+10606,TRADH,Condiments,1
+10606,TRADH,Meat & Poultry,1
+10606,TRADH,Confections,1
+10607,SAVEA,Produce,0
+10607,SAVEA,Meat & Poultry,0
+10607,SAVEA,Dairy Products,0
+10607,SAVEA,Seafood,0
+10607,SAVEA,Dairy Products,0
+10608,TOMSP,Grains & Cereals,0
+10609,DUMON,Beverages,0
+10609,DUMON,Seafood,0
+10609,DUMON,Confections,0
+10610,LAMAI,Seafood,0
+10611,WOLZA,Beverages,0
+10611,WOLZA,Beverages,0
+10611,WOLZA,Dairy Products,0
+10612,SAVEA,Seafood,0
+10612,SAVEA,Seafood,0
+10612,SAVEA,Confections,0
+10612,SAVEA,Dairy Products,0
+10612,SAVEA,Beverages,0
+10613,HILAA,Seafood,0
+10613,HILAA,Beverages,0
+10614,BLAUS,Dairy Products,0
+10614,BLAUS,Confections,0
+10614,BLAUS,Beverages,0
+10615,WILMK,Meat & Poultry,0
+10616,GREAL,Beverages,0
+10616,GREAL,Grains & Cereals,0
+10616,GREAL,Beverages,0
+10616,GREAL,Dairy Products,0
+10617,GREAL,Dairy Products,0
+10618,MEREP,Condiments,1
+10618,MEREP,Grains & Cereals,1
+10618,MEREP,Confections,1
+10619,MEREP,Confections,1
+10619,MEREP,Grains & Cereals,1
+10620,LAUGB,Beverages,1
+10620,LAUGB,Grains & Cereals,1
+10621,ISLAT,Confections,0
+10621,ISLAT,Grains & Cereals,0
+10621,ISLAT,Beverages,0
+10621,ISLAT,Dairy Products,0
+10622,RICAR,Beverages,0
+10622,RICAR,Confections,0
+10623,FRANK,Produce,0
+10623,FRANK,Confections,0
+10623,FRANK,Confections,0
+10623,FRANK,Beverages,0
+10623,FRANK,Beverages,0
+10624,THECR,Produce,0
+10624,THECR,Meat & Poultry,0
+10624,THECR,Condiments,0
+10625,ANATR,Produce,0
+10625,ANATR,Grains & Cereals,0
+10625,ANATR,Dairy Products,0
+10626,BERGS,Meat & Poultry,0
+10626,BERGS,Dairy Products,0
+10626,BERGS,Dairy Products,0
+10627,SAVEA,Confections,0
+10627,SAVEA,Seafood,0
+10628,BLONP,Beverages,1
+10629,GODOS,Meat & Poultry,0
+10629,GODOS,Grains & Cereals,0
+10630,KOENE,Meat & Poultry,0
+10630,KOENE,Beverages,0
+10631,LAMAI,Beverages,0
+10632,WANDK,Beverages,0
+10632,WANDK,Dairy Products,0
+10633,ERNSH,Dairy Products,0
+10633,ERNSH,Seafood,0
+10633,ERNSH,Confections,0
+10633,ERNSH,Confections,0
+10634,FOLIG,Produce,1
+10634,FOLIG,Seafood,1
+10634,FOLIG,Produce,1
+10634,FOLIG,Beverages,1
+10635,MAGAA,Condiments,0
+10635,MAGAA,Condiments,0
+10635,MAGAA,Grains & Cereals,0
+10636,WARTH,Condiments,0
+10636,WARTH,Seafood,0
+10637,QUEEN,Dairy Products,0
+10637,QUEEN,Confections,0
+10637,QUEEN,Grains & Cereals,0
+10638,LINOD,Seafood,0
+10638,LINOD,Condiments,0
+10638,LINOD,Dairy Products,0
+10639,SANTG,Seafood,0
+10640,WANDK,Dairy Products,0
+10640,WANDK,Beverages,0
+10641,HILAA,Beverages,0
+10641,HILAA,Seafood,0
+10642,SIMOB,Confections,0
+10642,SIMOB,Condiments,0
+10643,ALFKI,Produce,0
+10643,ALFKI,Beverages,0
+10643,ALFKI,Seafood,0
+10644,WELLI,Seafood,0
+10644,WELLI,Beverages,0
+10644,WELLI,Seafood,0
+10645,HANAR,Seafood,0
+10645,HANAR,Seafood,0
+10646,HUNGO,Beverages,0
+10646,HUNGO,Seafood,0
+10646,HUNGO,Dairy Products,0
+10646,HUNGO,Condiments,0
+10647,QUEDE,Confections,0
+10647,QUEDE,Beverages,0
+10648,RICAR,Grains & Cereals,0
+10648,RICAR,Beverages,0
+10649,MAISD,Produce,0
+10649,MAISD,Dairy Products,0
+10650,FAMIA,Seafood,1
+10650,FAMIA,Meat & Poultry,1
+10650,FAMIA,Meat & Poultry,1
+10651,WANDK,Confections,0
+10651,WANDK,Grains & Cereals,0
+10652,GOURL,Seafood,0
+10652,GOURL,Grains & Cereals,0
+10653,FRANK,Confections,0
+10653,FRANK,Dairy Products,0
+10654,BERGS,Condiments,0
+10654,BERGS,Beverages,0
+10654,BERGS,Meat & Poultry,0
+10655,REGGC,Seafood,0
+10656,GREAL,Produce,0
+10656,GREAL,Condiments,0
+10656,GREAL,Confections,0
+10657,SAVEA,Condiments,0
+10657,SAVEA,Seafood,0
+10657,SAVEA,Seafood,0
+10657,SAVEA,Confections,0
+10657,SAVEA,Grains & Cereals,0
+10657,SAVEA,Dairy Products,0
+10658,QUICK,Confections,0
+10658,QUICK,Seafood,0
+10658,QUICK,Dairy Products,0
+10658,QUICK,Condiments,0
+10659,QUEEN,Dairy Products,0
+10659,QUEEN,Seafood,0
+10659,QUEEN,Beverages,0
+10660,HUNGC,Confections,1
+10661,HUNGO,Beverages,0
+10661,HUNGO,Seafood,0
+10662,LONEP,Confections,0
+10663,BONAP,Seafood,0
+10663,BONAP,Grains & Cereals,0
+10663,BONAP,Produce,0
+10664,FURIB,Seafood,0
+10664,FURIB,Grains & Cereals,0
+10664,FURIB,Condiments,0
+10665,LONEP,Produce,0
+10665,LONEP,Dairy Products,0
+10665,LONEP,Beverages,0
+10666,RICSU,Meat & Poultry,0
+10666,RICSU,Condiments,0
+10667,ERNSH,Dairy Products,0
+10667,ERNSH,Dairy Products,0
+10668,WANDK,Dairy Products,0
+10668,WANDK,Meat & Poultry,0
+10668,WANDK,Grains & Cereals,0
+10669,SIMOB,Seafood,0
+10670,FRANK,Grains & Cereals,0
+10670,FRANK,Seafood,0
+10670,FRANK,Beverages,0
+10670,FRANK,Seafood,0
+10670,FRANK,Beverages,0
+10671,FRANR,Confections,0
+10671,FRANR,Confections,0
+10671,FRANR,Condiments,0
+10672,BERGS,Beverages,0
+10672,BERGS,Dairy Products,0
+10673,WILMK,Confections,0
+10673,WILMK,Grains & Cereals,0
+10673,WILMK,Beverages,0
+10674,ISLAT,Grains & Cereals,0
+10675,FRANK,Produce,0
+10675,FRANK,Meat & Poultry,0
+10675,FRANK,Seafood,0
+10676,TORTU,Seafood,0
+10676,TORTU,Confections,0
+10676,TORTU,Condiments,0
+10677,ANTON,Confections,1
+10677,ANTON,Dairy Products,1
+10678,SAVEA,Dairy Products,0
+10678,SAVEA,Dairy Products,0
+10678,SAVEA,Seafood,0
+10678,SAVEA,Meat & Poultry,0
+10679,BLONP,Dairy Products,1
+10680,OLDWO,Confections,0
+10680,OLDWO,Dairy Products,0
+10680,OLDWO,Grains & Cereals,0
+10681,GREAL,Confections,0
+10681,GREAL,Confections,0
+10681,GREAL,Grains & Cereals,0
+10682,ANTON,Dairy Products,1
+10682,ANTON,Condiments,1
+10682,ANTON,Beverages,1
+10683,DUMON,Grains & Cereals,0
+10684,OTTIK,Seafood,0
+10684,OTTIK,Confections,0
+10684,OTTIK,Dairy Products,0
+10685,GOURL,Seafood,0
+10685,GOURL,Seafood,0
+10685,GOURL,Confections,0
+10686,PICCO,Meat & Poultry,0
+10686,PICCO,Confections,0
+10687,HUNGO,Meat & Poultry,0
+10687,HUNGO,Meat & Poultry,0
+10687,HUNGO,Seafood,0
+10688,VAFFE,Seafood,0
+10688,VAFFE,Produce,0
+10688,VAFFE,Beverages,0
+10689,BERGS,Beverages,0
+10690,HANAR,Grains & Cereals,0
+10690,HANAR,Condiments,0
+10691,QUICK,Beverages,0
+10691,QUICK,Meat & Poultry,0
+10691,QUICK,Beverages,0
+10691,QUICK,Condiments,0
+10691,QUICK,Confections,0
+10692,ALFKI,Condiments,0
+10693,WHITC,Meat & Poultry,0
+10693,WHITC,Meat & Poultry,0
+10693,WHITC,Dairy Products,0
+10693,WHITC,Seafood,0
+10694,QUICK,Produce,0
+10694,QUICK,Dairy Products,0
+10694,QUICK,Beverages,0
+10695,WILMK,Condiments,0
+10695,WILMK,Dairy Products,0
+10695,WILMK,Beverages,0
+10696,WHITC,Meat & Poultry,0
+10696,WHITC,Seafood,0
+10697,LINOD,Confections,0
+10697,LINOD,Beverages,0
+10697,LINOD,Seafood,0
+10697,LINOD,Beverages,0
+10698,ERNSH,Dairy Products,0
+10698,ERNSH,Meat & Poultry,0
+10698,ERNSH,Meat & Poultry,0
+10698,ERNSH,Condiments,0
+10698,ERNSH,Beverages,0
+10699,MORGK,Confections,0
+10700,SAVEA,Beverages,0
+10700,SAVEA,Beverages,0
+10700,SAVEA,Confections,0
+10700,SAVEA,Dairy Products,0
+10701,HUNGO,Dairy Products,0
+10701,HUNGO,Dairy Products,0
+10701,HUNGO,Beverages,0
+10702,ALFKI,Condiments,0
+10702,ALFKI,Beverages,0
+10703,FOLKO,Beverages,0
+10703,FOLKO,Dairy Products,0
+10703,FOLKO,Seafood,0
+10704,QUEEN,Condiments,0
+10704,QUEEN,Beverages,0
+10704,QUEEN,Confections,0
+10705,HILAA,Dairy Products,0
+10705,HILAA,Dairy Products,0
+10706,OLDWO,Confections,0
+10706,OLDWO,Beverages,0
+10706,OLDWO,Dairy Products,0
+10707,AROUT,Meat & Poultry,0
+10707,AROUT,Grains & Cereals,0
+10707,AROUT,Beverages,0
+10708,THEBI,Condiments,0
+10708,THEBI,Seafood,0
+10709,GOURL,Condiments,0
+10709,GOURL,Produce,0
+10709,GOURL,Dairy Products,0
+10710,FRANS,Confections,0
+10710,FRANS,Confections,0
+10711,SAVEA,Confections,0
+10711,SAVEA,Seafood,0
+10711,SAVEA,Meat & Poultry,0
+10712,HUNGO,Meat & Poultry,0
+10712,HUNGO,Grains & Cereals,0
+10713,SAVEA,Seafood,0
+10713,SAVEA,Confections,0
+10713,SAVEA,Seafood,0
+10713,SAVEA,Seafood,0
+10714,SAVEA,Beverages,0
+10714,SAVEA,Meat & Poultry,0
+10714,SAVEA,Confections,0
+10714,SAVEA,Grains & Cereals,0
+10714,SAVEA,Seafood,0
+10715,BONAP,Seafood,0
+10715,BONAP,Dairy Products,0
+10716,RANCH,Confections,0
+10716,RANCH,Produce,0
+10716,RANCH,Condiments,0
+10717,FRANK,Confections,0
+10717,FRANK,Meat & Poultry,0
+10717,FRANK,Dairy Products,0
+10718,KOENE,Dairy Products,0
+10718,KOENE,Confections,0
+10718,KOENE,Seafood,0
+10718,KOENE,Confections,0
+10719,LETSS,Seafood,0
+10719,LETSS,Seafood,0
+10719,LETSS,Meat & Poultry,0
+10720,QUEDE,Beverages,0
+10720,QUEDE,Dairy Products,0
+10721,QUICK,Condiments,0
+10722,SAVEA,Beverages,0
+10722,SAVEA,Dairy Products,0
+10722,SAVEA,Confections,0
+10722,SAVEA,Beverages,0
+10723,WHITC,Confections,0
+10724,MEREP,Seafood,1
+10724,MEREP,Condiments,1
+10725,FAMIA,Seafood,1
+10725,FAMIA,Grains & Cereals,1
+10725,FAMIA,Meat & Poultry,1
+10726,EASTC,Condiments,0
+10726,EASTC,Dairy Products,0
+10727,REGGC,Meat & Poultry,0
+10727,REGGC,Grains & Cereals,0
+10727,REGGC,Dairy Products,0
+10728,QUEEN,Seafood,0
+10728,QUEEN,Seafood,0
+10728,QUEEN,Meat & Poultry,0
+10728,QUEEN,Dairy Products,0
+10729,LINOD,Beverages,0
+10729,LINOD,Confections,0
+10729,LINOD,Confections,0
+10730,BONAP,Confections,0
+10730,BONAP,Dairy Products,0
+10730,BONAP,Condiments,0
+10731,CHOPS,Confections,0
+10731,CHOPS,Produce,0
+10732,BONAP,Beverages,0
+10733,BERGS,Produce,0
+10733,BERGS,Produce,0
+10733,BERGS,Grains & Cereals,0
+10734,GOURL,Condiments,0
+10734,GOURL,Seafood,0
+10734,GOURL,Beverages,0
+10735,LETSS,Condiments,0
+10735,LETSS,Condiments,0
+10736,HUNGO,Condiments,0
+10736,HUNGO,Beverages,0
+10737,VINET,Seafood,1
+10737,VINET,Seafood,1
+10738,SPECD,Confections,0
+10739,VINET,Seafood,1
+10739,VINET,Grains & Cereals,1
+10740,WHITC,Produce,0
+10740,WHITC,Beverages,0
+10740,WHITC,Seafood,0
+10740,WHITC,Grains & Cereals,0
+10741,AROUT,Beverages,0
+10742,BOTTM,Condiments,0
+10742,BOTTM,Dairy Products,0
+10742,BOTTM,Dairy Products,0
+10743,AROUT,Seafood,0
+10744,VAFFE,Seafood,0
+10745,QUICK,Seafood,0
+10745,QUICK,Condiments,0
+10745,QUICK,Dairy Products,0
+10745,QUICK,Dairy Products,0
+10746,CHOPS,Seafood,0
+10746,CHOPS,Grains & Cereals,0
+10746,CHOPS,Confections,0
+10746,CHOPS,Dairy Products,0
+10747,PICCO,Dairy Products,0
+10747,PICCO,Seafood,0
+10747,PICCO,Condiments,0
+10747,PICCO,Dairy Products,0
+10748,SAVEA,Grains & Cereals,0
+10748,SAVEA,Seafood,0
+10748,SAVEA,Grains & Cereals,0
+10749,ISLAT,Grains & Cereals,0
+10749,ISLAT,Dairy Products,0
+10749,ISLAT,Beverages,0
+10750,WARTH,Produce,0
+10750,WARTH,Seafood,0
+10750,WARTH,Dairy Products,0
+10751,RICSU,Confections,0
+10751,RICSU,Seafood,0
+10751,RICSU,Confections,0
+10751,RICSU,Seafood,0
+10752,NORTS,Beverages,0
+10752,NORTS,Dairy Products,0
+10753,FRANS,Seafood,0
+10753,FRANS,Produce,0
+10754,MAGAA,Seafood,0
+10755,BONAP,Confections,0
+10755,BONAP,Grains & Cereals,0
+10755,BONAP,Grains & Cereals,0
+10755,BONAP,Dairy Products,0
+10756,SPLIR,Seafood,0
+10756,SPLIR,Seafood,0
+10756,SPLIR,Confections,0
+10756,SPLIR,Dairy Products,0
+10757,SAVEA,Beverages,0
+10757,SAVEA,Dairy Products,0
+10757,SAVEA,Confections,0
+10757,SAVEA,Grains & Cereals,0
+10758,RICSU,Confections,0
+10758,RICSU,Grains & Cereals,0
+10758,RICSU,Beverages,0
+10759,ANATR,Dairy Products,0
+10760,MAISD,Confections,0
+10760,MAISD,Confections,0
+10760,MAISD,Beverages,0
+10761,RATTC,Confections,0
+10761,RATTC,Beverages,0
+10762,FOLKO,Beverages,0
+10762,FOLKO,Confections,0
+10762,FOLKO,Produce,0
+10762,FOLKO,Grains & Cereals,0
+10763,FOLIG,Confections,1
+10763,FOLIG,Grains & Cereals,1
+10763,FOLIG,Beverages,1
+10764,ERNSH,Condiments,0
+10764,ERNSH,Beverages,0
+10765,QUICK,Condiments,0
+10766,OTTIK,Beverages,0
+10766,OTTIK,Produce,0
+10766,OTTIK,Confections,0
+10767,SUPRD,Grains & Cereals,0
+10768,AROUT,Grains & Cereals,0
+10768,AROUT,Dairy Products,0
+10768,AROUT,Dairy Products,0
+10768,AROUT,Dairy Products,0
+10769,VAFFE,Seafood,0
+10769,VAFFE,Grains & Cereals,0
+10769,VAFFE,Condiments,0
+10769,VAFFE,Confections,0
+10770,HANAR,Dairy Products,0
+10771,ERNSH,Dairy Products,0
+10772,LEHMS,Meat & Poultry,0
+10772,LEHMS,Dairy Products,0
+10773,ERNSH,Meat & Poultry,0
+10773,ERNSH,Dairy Products,0
+10773,ERNSH,Beverages,0
+10774,FOLKO,Dairy Products,0
+10774,FOLKO,Condiments,0
+10775,THECR,Seafood,0
+10775,THECR,Beverages,0
+10776,ERNSH,Dairy Products,0
+10776,ERNSH,Grains & Cereals,0
+10776,ERNSH,Seafood,0
+10776,ERNSH,Produce,0
+10777,GOURL,Grains & Cereals,0
+10778,BERGS,Seafood,0
+10779,MORGK,Confections,0
+10779,MORGK,Confections,0
+10780,LILAS,Beverages,0
+10780,LILAS,Condiments,0
+10781,WARTH,Meat & Poultry,0
+10781,WARTH,Grains & Cereals,0
+10781,WARTH,Produce,0
+10782,CACTU,Dairy Products,0
+10783,HANAR,Dairy Products,0
+10783,HANAR,Beverages,0
+10784,MAGAA,Seafood,0
+10784,MAGAA,Beverages,0
+10784,MAGAA,Dairy Products,0
+10785,GROSR,Seafood,1
+10785,GROSR,Beverages,1
+10786,QUEEN,Condiments,0
+10786,QUEEN,Seafood,0
+10786,QUEEN,Beverages,0
+10787,LAMAI,Beverages,0
+10787,LAMAI,Meat & Poultry,0
+10788,QUICK,Confections,0
+10788,QUICK,Beverages,0
+10789,FOLIG,Seafood,1
+10789,FOLIG,Beverages,1
+10789,FOLIG,Condiments,1
+10789,FOLIG,Confections,1
+10790,GOURL,Produce,0
+10790,GOURL,Grains & Cereals,0
+10791,FRANK,Meat & Poultry,0
+10791,FRANK,Seafood,0
+10792,WOLZA,Beverages,0
+10792,WOLZA,Meat & Poultry,0
+10792,WOLZA,Confections,0
+10793,AROUT,Seafood,0
+10793,AROUT,Grains & Cereals,0
+10794,QUEDE,Produce,0
+10794,QUEDE,Meat & Poultry,0
+10795,ERNSH,Confections,0
+10795,ERNSH,Meat & Poultry,0
+10796,HILAA,Confections,0
+10796,HILAA,Condiments,0
+10796,HILAA,Grains & Cereals,0
+10796,HILAA,Dairy Products,0
+10797,DRACD,Dairy Products,0
+10798,ISLAT,Confections,0
+10798,ISLAT,Dairy Products,0
+10799,KOENE,Seafood,0
+10799,KOENE,Beverages,0
+10799,KOENE,Dairy Products,0
+10800,SEVES,Dairy Products,1
+10800,SEVES,Produce,1
+10800,SEVES,Meat & Poultry,1
+10801,BOLID,Meat & Poultry,0
+10801,BOLID,Meat & Poultry,0
+10802,SIMOB,Seafood,0
+10802,SIMOB,Produce,0
+10802,SIMOB,Meat & Poultry,0
+10802,SIMOB,Confections,0
+10803,WELLI,Confections,0
+10803,WELLI,Confections,0
+10803,WELLI,Dairy Products,0
+10804,SEVES,Seafood,1
+10804,SEVES,Produce,1
+10804,SEVES,Confections,1
+10805,THEBI,Beverages,0
+10805,THEBI,Beverages,0
+10806,VICTE,Beverages,1
+10806,VICTE,Condiments,1
+10806,VICTE,Produce,1
+10807,FRANS,Seafood,0
+10808,OLDWO,Grains & Cereals,0
+10808,OLDWO,Beverages,0
+10809,WELLI,Grains & Cereals,0
+10810,LAUGB,Seafood,1
+10810,LAUGB,Confections,1
+10810,LAUGB,Beverages,1
+10811,LINOD,Confections,0
+10811,LINOD,Grains & Cereals,0
+10811,LINOD,Seafood,0
+10812,REGGC,Dairy Products,0
+10812,REGGC,Dairy Products,0
+10812,REGGC,Condiments,0
+10813,RICAR,Beverages,0
+10813,RICAR,Seafood,0
+10814,VICTE,Seafood,1
+10814,VICTE,Beverages,1
+10814,VICTE,Confections,1
+10814,VICTE,Condiments,1
+10815,SAVEA,Dairy Products,0
+10816,GREAL,Beverages,0
+10816,GREAL,Confections,0
+10817,KOENE,Confections,0
+10817,KOENE,Beverages,0
+10817,KOENE,Seafood,0
+10817,KOENE,Confections,0
+10818,MAGAA,Dairy Products,0
+10818,MAGAA,Seafood,0
+10819,CACTU,Beverages,0
+10819,CACTU,Beverages,0
+10820,RATTC,Grains & Cereals,0
+10821,SPLIR,Beverages,0
+10821,SPLIR,Produce,0
+10822,TRAIH,Confections,1
+10822,TRAIH,Beverages,1
+10823,LILAS,Dairy Products,0
+10823,LILAS,Grains & Cereals,0
+10823,LILAS,Dairy Products,0
+10823,LILAS,Condiments,0
+10824,FOLKO,Seafood,0
+10824,FOLKO,Beverages,0
+10825,DRACD,Confections,0
+10825,DRACD,Meat & Poultry,0
+10826,BLONP,Dairy Products,1
+10826,BLONP,Grains & Cereals,1
+10827,BONAP,Seafood,0
+10827,BONAP,Beverages,0
+10828,RANCH,Confections,0
+10828,RANCH,Beverages,0
+10829,ISLAT,Beverages,0
+10829,ISLAT,Condiments,0
+10829,ISLAT,Seafood,0
+10829,ISLAT,Dairy Products,0
+10830,TRADH,Condiments,1
+10830,TRADH,Beverages,1
+10830,TRADH,Dairy Products,1
+10830,TRADH,Confections,1
+10831,SANTG,Confections,0
+10831,SANTG,Beverages,0
+10831,SANTG,Beverages,0
+10831,SANTG,Beverages,0
+10832,LAMAI,Seafood,0
+10832,LAMAI,Confections,0
+10832,LAMAI,Condiments,0
+10832,LAMAI,Grains & Cereals,0
+10833,OTTIK,Produce,0
+10833,OTTIK,Dairy Products,0
+10833,OTTIK,Meat & Poultry,0
+10834,TRADH,Meat & Poultry,1
+10834,TRADH,Seafood,1
+10835,ALFKI,Dairy Products,0
+10835,ALFKI,Condiments,0
+10836,ERNSH,Grains & Cereals,0
+10836,ERNSH,Beverages,0
+10836,ERNSH,Grains & Cereals,0
+10836,ERNSH,Dairy Products,0
+10836,ERNSH,Grains & Cereals,0
+10837,BERGS,Seafood,0
+10837,BERGS,Seafood,0
+10837,BERGS,Confections,0
+10837,BERGS,Beverages,0
+10838,LINOD,Beverages,0
+10838,LINOD,Seafood,0
+10838,LINOD,Seafood,0
+10839,TRADH,Seafood,1
+10839,TRADH,Dairy Products,1
+10840,LINOD,Confections,0
+10840,LINOD,Beverages,0
+10841,SUPRD,Seafood,0
+10841,SUPRD,Grains & Cereals,0
+10841,SUPRD,Dairy Products,0
+10841,SUPRD,Condiments,0
+10842,TORTU,Dairy Products,0
+10842,TORTU,Beverages,0
+10842,TORTU,Confections,0
+10842,TORTU,Beverages,0
+10843,VICTE,Produce,1
+10844,PICCO,Grains & Cereals,0
+10845,QUICK,Grains & Cereals,0
+10845,QUICK,Beverages,0
+10845,QUICK,Grains & Cereals,0
+10845,QUICK,Seafood,0
+10845,QUICK,Grains & Cereals,0
+10846,SUPRD,Condiments,0
+10846,SUPRD,Beverages,0
+10846,SUPRD,Produce,0
+10847,SAVEA,Beverages,0
+10847,SAVEA,Confections,0
+10847,SAVEA,Seafood,0
+10847,SAVEA,Seafood,0
+10847,SAVEA,Dairy Products,0
+10847,SAVEA,Dairy Products,0
+10848,CONSH,Condiments,1
+10848,CONSH,Meat & Poultry,1
+10849,KOENE,Condiments,0
+10849,KOENE,Confections,0
+10850,VICTE,Confections,1
+10850,VICTE,Dairy Products,1
+10850,VICTE,Beverages,1
+10851,RICAR,Beverages,0
+10851,RICAR,Confections,0
+10851,RICAR,Grains & Cereals,0
+10851,RICAR,Dairy Products,0
+10852,RATTC,Beverages,0
+10852,RATTC,Meat & Poultry,0
+10852,RATTC,Confections,0
+10853,BLAUS,Seafood,0
+10854,ERNSH,Seafood,0
+10854,ERNSH,Seafood,0
+10855,OLDWO,Confections,0
+10855,OLDWO,Dairy Products,0
+10855,OLDWO,Grains & Cereals,0
+10855,OLDWO,Condiments,0
+10856,ANTON,Beverages,1
+10856,ANTON,Grains & Cereals,1
+10857,BERGS,Condiments,0
+10857,BERGS,Confections,0
+10857,BERGS,Meat & Poultry,0
+10858,LACOR,Produce,0
+10858,LACOR,Confections,0
+10858,LACOR,Beverages,0
+10859,FRANK,Beverages,0
+10859,FRANK,Meat & Poultry,0
+10859,FRANK,Grains & Cereals,0
+10860,FRANR,Produce,0
+10860,FRANR,Beverages,0
+10861,WHITC,Meat & Poultry,0
+10861,WHITC,Seafood,0
+10861,WHITC,Confections,0
+10861,WHITC,Dairy Products,0
+10861,WHITC,Confections,0
+10862,LEHMS,Dairy Products,0
+10862,LEHMS,Grains & Cereals,0
+10863,HILAA,Beverages,0
+10863,HILAA,Seafood,0
+10864,AROUT,Beverages,0
+10864,AROUT,Beverages,0
+10865,QUICK,Beverages,0
+10865,QUICK,Beverages,0
+10866,BERGS,Beverages,0
+10866,BERGS,Beverages,0
+10866,BERGS,Seafood,0
+10867,LONEP,Meat & Poultry,0
+10868,QUEEN,Confections,0
+10868,QUEEN,Beverages,0
+10868,QUEEN,Confections,0
+10869,SEVES,Beverages,1
+10869,SEVES,Dairy Products,1
+10869,SEVES,Grains & Cereals,1
+10869,SEVES,Confections,1
+10870,WOLZA,Beverages,0
+10870,WOLZA,Produce,0
+10871,BONAP,Condiments,0
+10871,BONAP,Confections,0
+10871,BONAP,Meat & Poultry,0
+10872,GODOS,Meat & Poultry,0
+10872,GODOS,Confections,0
+10872,GODOS,Grains & Cereals,0
+10872,GODOS,Condiments,0
+10873,WILMK,Confections,0
+10873,WILMK,Produce,0
+10874,GODOS,Seafood,0
+10875,BERGS,Confections,0
+10875,BERGS,Confections,0
+10875,BERGS,Confections,0
+10876,BONAP,Seafood,0
+10876,BONAP,Grains & Cereals,0
+10877,RICAR,Confections,0
+10877,RICAR,Seafood,0
+10878,QUICK,Confections,0
+10879,WILMK,Seafood,0
+10879,WILMK,Condiments,0
+10879,WILMK,Beverages,0
+10880,FOLKO,Grains & Cereals,0
+10880,FOLKO,Condiments,0
+10880,FOLKO,Beverages,0
+10881,CACTU,Seafood,0
+10882,SAVEA,Grains & Cereals,0
+10882,SAVEA,Confections,0
+10882,SAVEA,Meat & Poultry,0
+10883,LONEP,Beverages,0
+10884,LETSS,Confections,0
+10884,LETSS,Grains & Cereals,0
+10884,LETSS,Condiments,0
+10885,SUPRD,Beverages,0
+10885,SUPRD,Beverages,0
+10885,SUPRD,Beverages,0
+10885,SUPRD,Condiments,0
+10886,HANAR,Seafood,0
+10886,HANAR,Dairy Products,0
+10886,HANAR,Condiments,0
+10887,GALED,Confections,0
+10888,GODOS,Beverages,0
+10888,GODOS,Confections,0
+10889,RATTC,Dairy Products,0
+10889,RATTC,Beverages,0
+10890,DUMON,Meat & Poultry,0
+10890,DUMON,Beverages,0
+10890,DUMON,Seafood,0
+10891,LEHMS,Seafood,0
+10892,MAISD,Dairy Products,0
+10893,KOENE,Condiments,0
+10893,KOENE,Beverages,0
+10893,KOENE,Meat & Poultry,0
+10893,KOENE,Seafood,0
+10893,KOENE,Seafood,0
+10894,SAVEA,Seafood,0
+10894,SAVEA,Dairy Products,0
+10894,SAVEA,Beverages,0
+10895,ERNSH,Beverages,0
+10895,ERNSH,Beverages,0
+10895,ERNSH,Seafood,0
+10895,ERNSH,Dairy Products,0
+10896,MAISD,Seafood,0
+10896,MAISD,Grains & Cereals,0
+10897,HUNGO,Meat & Poultry,0
+10897,HUNGO,Seafood,0
+10898,OCEAN,Seafood,0
+10899,LILAS,Beverages,0
+10900,WELLI,Beverages,0
+10901,HILAA,Seafood,0
+10901,HILAA,Dairy Products,0
+10902,FOLKO,Meat & Poultry,0
+10902,FOLKO,Confections,0
+10903,HANAR,Seafood,0
+10903,HANAR,Condiments,0
+10903,HANAR,Confections,0
+10904,WHITC,Seafood,0
+10904,WHITC,Confections,0
+10905,WELLI,Beverages,0
+10906,WOLZA,Condiments,0
+10907,SPECD,Beverages,0
+10908,REGGC,Produce,0
+10908,REGGC,Grains & Cereals,0
+10909,SANTG,Produce,0
+10909,SANTG,Confections,0
+10909,SANTG,Seafood,0
+10910,WILMK,Confections,0
+10910,WILMK,Confections,0
+10910,WILMK,Condiments,0
+10911,GODOS,Beverages,0
+10911,GODOS,Meat & Poultry,0
+10911,GODOS,Beverages,0
+10912,HUNGO,Dairy Products,0
+10912,HUNGO,Meat & Poultry,0
+10913,QUEEN,Condiments,0
+10913,QUEEN,Dairy Products,0
+10913,QUEEN,Seafood,0
+10914,QUEEN,Dairy Products,0
+10915,TORTU,Meat & Poultry,0
+10915,TORTU,Dairy Products,0
+10915,TORTU,Meat & Poultry,0
+10916,RANCH,Confections,0
+10916,RANCH,Dairy Products,0
+10916,RANCH,Grains & Cereals,0
+10917,ROMEY,Seafood,0
+10917,ROMEY,Dairy Products,0
+10918,BOTTM,Beverages,0
+10918,BOTTM,Dairy Products,0
+10919,LINOD,Confections,0
+10919,LINOD,Confections,0
+10919,LINOD,Seafood,0
+10920,AROUT,Confections,0
+10921,VAFFE,Beverages,0
+10921,VAFFE,Condiments,0
+10922,HANAR,Meat & Poultry,0
+10922,HANAR,Beverages,0
+10923,LAMAI,Grains & Cereals,0
+10923,LAMAI,Beverages,0
+10923,LAMAI,Beverages,0
+10924,BERGS,Seafood,0
+10924,BERGS,Produce,0
+10924,BERGS,Beverages,0
+10925,HANAR,Seafood,0
+10925,HANAR,Grains & Cereals,0
+10926,ANATR,Dairy Products,0
+10926,ANATR,Seafood,0
+10926,ANATR,Confections,0
+10926,ANATR,Dairy Products,0
+10927,LACOR,Confections,0
+10927,LACOR,Grains & Cereals,0
+10927,LACOR,Beverages,0
+10928,GALED,Confections,0
+10928,GALED,Beverages,0
+10929,FRANK,Confections,0
+10929,FRANK,Beverages,0
+10929,FRANK,Condiments,0
+10930,SUPRD,Confections,0
+10930,SUPRD,Confections,0
+10930,SUPRD,Meat & Poultry,0
+10930,SUPRD,Seafood,0
+10931,RICSU,Seafood,0
+10931,RICSU,Grains & Cereals,0
+10932,BONAP,Confections,0
+10932,BONAP,Confections,0
+10932,BONAP,Dairy Products,0
+10932,BONAP,Beverages,0
+10933,ISLAT,Meat & Poultry,0
+10933,ISLAT,Condiments,0
+10934,LEHMS,Condiments,0
+10935,WELLI,Beverages,0
+10935,WELLI,Seafood,0
+10935,WELLI,Grains & Cereals,0
+10936,GREAL,Seafood,0
+10937,CACTU,Produce,0
+10937,CACTU,Beverages,0
+10938,QUICK,Seafood,0
+10938,QUICK,Beverages,0
+10938,QUICK,Dairy Products,0
+10938,QUICK,Dairy Products,0
+10939,MAGAA,Beverages,0
+10939,MAGAA,Beverages,0
+10940,BONAP,Produce,0
+10940,BONAP,Seafood,0
+10941,SAVEA,Dairy Products,0
+10941,SAVEA,Confections,0
+10941,SAVEA,Confections,0
+10941,SAVEA,Dairy Products,0
+10942,REGGC,Confections,0
+10943,BSBEV,Seafood,0
+10943,BSBEV,Grains & Cereals,0
+10943,BSBEV,Seafood,0
+10944,BOTTM,Dairy Products,0
+10944,BOTTM,Condiments,0
+10944,BOTTM,Grains & Cereals,0
+10945,MORGK,Seafood,0
+10945,MORGK,Dairy Products,0
+10946,VAFFE,Seafood,0
+10946,VAFFE,Beverages,0
+10946,VAFFE,Condiments,0
+10947,BSBEV,Dairy Products,0
+10948,GODOS,Confections,0
+10948,GODOS,Produce,0
+10948,GODOS,Meat & Poultry,0
+10949,BOTTM,Condiments,0
+10949,BOTTM,Seafood,0
+10949,BOTTM,Meat & Poultry,0
+10949,BOTTM,Confections,0
+10950,MAGAA,Condiments,0
+10951,RICSU,Dairy Products,0
+10951,RICSU,Seafood,0
+10951,RICSU,Beverages,0
+10952,ALFKI,Condiments,0
+10952,ALFKI,Produce,0
+10953,AROUT,Confections,0
+10953,AROUT,Dairy Products,0
+10954,LINOD,Confections,0
+10954,LINOD,Dairy Products,0
+10954,LINOD,Seafood,0
+10954,LINOD,Dairy Products,0
+10955,FOLKO,Beverages,0
+10956,BLAUS,Confections,0
+10956,BLAUS,Confections,0
+10956,BLAUS,Produce,0
+10957,HILAA,Seafood,0
+10957,HILAA,Beverages,0
+10957,HILAA,Grains & Cereals,0
+10958,OCEAN,Condiments,0
+10958,OCEAN,Produce,0
+10958,OCEAN,Dairy Products,0
+10959,GOURL,Beverages,0
+10960,HILAA,Beverages,0
+10960,HILAA,Seafood,0
+10961,QUEEN,Grains & Cereals,0
+10961,QUEEN,Beverages,0
+10962,QUICK,Produce,0
+10962,QUICK,Seafood,0
+10962,QUICK,Meat & Poultry,0
+10962,QUICK,Dairy Products,0
+10962,QUICK,Beverages,0
+10963,FURIB,Dairy Products,0
+10964,SPECD,Seafood,0
+10964,SPECD,Beverages,0
+10964,SPECD,Dairy Products,0
+10965,OLDWO,Produce,0
+10966,CHOPS,Seafood,0
+10966,CHOPS,Grains & Cereals,0
+10966,CHOPS,Confections,0
+10967,TOMSP,Confections,0
+10967,TOMSP,Confections,0
+10968,ERNSH,Dairy Products,0
+10968,ERNSH,Beverages,0
+10968,ERNSH,Grains & Cereals,0
+10969,COMMI,Seafood,0
+10970,BOLID,Grains & Cereals,0
+10971,FRANR,Meat & Poultry,0
+10972,LACOR,Meat & Poultry,0
+10972,LACOR,Dairy Products,0
+10973,LACOR,Confections,0
+10973,LACOR,Seafood,0
+10973,LACOR,Beverages,0
+10974,SPLIR,Condiments,0
+10975,BOTTM,Condiments,0
+10975,BOTTM,Beverages,0
+10976,HILAA,Produce,0
+10977,FOLKO,Beverages,0
+10977,FOLKO,Confections,0
+10977,FOLKO,Produce,0
+10977,FOLKO,Condiments,0
+10978,MAISD,Condiments,0
+10978,MAISD,Confections,0
+10978,MAISD,Seafood,0
+10978,MAISD,Condiments,0
+10979,ERNSH,Produce,0
+10979,ERNSH,Dairy Products,0
+10979,ERNSH,Beverages,0
+10979,ERNSH,Confections,0
+10979,ERNSH,Dairy Products,0
+10979,ERNSH,Condiments,0
+10980,FOLKO,Beverages,0
+10981,HANAR,Beverages,0
+10982,BOTTM,Produce,0
+10982,BOTTM,Beverages,0
+10983,SAVEA,Seafood,0
+10983,SAVEA,Grains & Cereals,0
+10984,SAVEA,Confections,0
+10984,SAVEA,Beverages,0
+10984,SAVEA,Seafood,0
+10985,HUNGO,Confections,0
+10985,HUNGO,Seafood,0
+10985,HUNGO,Dairy Products,0
+10986,OCEAN,Dairy Products,0
+10986,OCEAN,Confections,0
+10986,OCEAN,Beverages,0
+10986,OCEAN,Condiments,0
+10987,EASTC,Produce,0
+10987,EASTC,Beverages,0
+10987,EASTC,Dairy Products,0
+10988,RATTC,Produce,0
+10988,RATTC,Confections,0
+10989,QUEDE,Condiments,0
+10989,QUEDE,Dairy Products,0
+10989,QUEDE,Seafood,0
+10990,ERNSH,Confections,0
+10990,ERNSH,Beverages,0
+10990,ERNSH,Meat & Poultry,0
+10990,ERNSH,Condiments,0
+10991,QUICK,Beverages,0
+10991,QUICK,Beverages,0
+10991,QUICK,Beverages,0
+10992,THEBI,Dairy Products,0
+10993,FOLKO,Meat & Poultry,0
+10993,FOLKO,Seafood,0
+10994,VAFFE,Dairy Products,0
+10995,PERIC,Produce,0
+10995,PERIC,Dairy Products,0
+10996,QUICK,Grains & Cereals,0
+10997,LILAS,Dairy Products,0
+10997,LILAS,Seafood,0
+10997,LILAS,Grains & Cereals,0
+10998,WOLZA,Beverages,0
+10998,WOLZA,Condiments,0
+10998,WOLZA,Produce,0
+10998,WOLZA,Beverages,0
+10999,OTTIK,Seafood,0
+10999,OTTIK,Produce,0
+10999,OTTIK,Condiments,0
+11000,RATTC,Condiments,0
+11000,RATTC,Beverages,0
+11000,RATTC,Condiments,0
+11001,FOLKO,Produce,0
+11001,FOLKO,Grains & Cereals,0
+11001,FOLKO,Seafood,0
+11001,FOLKO,Meat & Poultry,0
+11002,SAVEA,Seafood,0
+11002,SAVEA,Beverages,0
+11002,SAVEA,Grains & Cereals,0
+11002,SAVEA,Meat & Poultry,0
+11003,THECR,Beverages,0
+11003,THECR,Seafood,0
+11003,THECR,Grains & Cereals,0
+11004,MAISD,Confections,0
+11004,MAISD,Beverages,0
+11005,WILMK,Beverages,0
+11005,WILMK,Dairy Products,0
+11006,GREAL,Beverages,0
+11006,GREAL,Meat & Poultry,0
+11007,PRINI,Condiments,0
+11007,PRINI,Meat & Poultry,0
+11007,PRINI,Grains & Cereals,0
+11008,ERNSH,Produce,0
+11008,ERNSH,Beverages,0
+11008,ERNSH,Dairy Products,0
+11009,GODOS,Beverages,0
+11009,GODOS,Seafood,0
+11009,GODOS,Dairy Products,0
+11010,REGGC,Produce,0
+11010,REGGC,Beverages,0
+11011,ALFKI,Seafood,0
+11011,ALFKI,Dairy Products,0
+11012,FRANK,Confections,0
+11012,FRANK,Dairy Products,0
+11012,FRANK,Dairy Products,0
+11013,ROMEY,Grains & Cereals,0
+11013,ROMEY,Grains & Cereals,0
+11013,ROMEY,Seafood,0
+11013,ROMEY,Confections,0
+11014,LINOD,Seafood,0
+11015,SANTG,Seafood,0
+11015,SANTG,Condiments,0
+11016,AROUT,Dairy Products,0
+11016,AROUT,Seafood,0
+11017,ERNSH,Condiments,0
+11017,ERNSH,Dairy Products,0
+11017,ERNSH,Beverages,0
+11018,LONEP,Dairy Products,0
+11018,LONEP,Seafood,0
+11018,LONEP,Grains & Cereals,0
+11019,RANCH,Seafood,0
+11019,RANCH,Confections,0
+11020,OTTIK,Seafood,0
+11021,QUICK,Beverages,0
+11021,QUICK,Confections,0
+11021,QUICK,Confections,0
+11021,QUICK,Produce,0
+11021,QUICK,Dairy Products,0
+11022,HANAR,Confections,0
+11022,HANAR,Dairy Products,0
+11023,BSBEV,Produce,0
+11023,BSBEV,Beverages,0
+11024,EASTC,Confections,0
+11024,EASTC,Dairy Products,0
+11024,EASTC,Condiments,0
+11024,EASTC,Dairy Products,0
+11025,WARTH,Beverages,0
+11025,WARTH,Seafood,0
+11026,FRANS,Seafood,0
+11026,FRANS,Produce,0
+11027,BOTTM,Beverages,0
+11027,BOTTM,Confections,0
+11028,KOENE,Meat & Poultry,0
+11028,KOENE,Dairy Products,0
+11029,CHOPS,Grains & Cereals,0
+11029,CHOPS,Condiments,0
+11030,SAVEA,Beverages,0
+11030,SAVEA,Condiments,0
+11030,SAVEA,Meat & Poultry,0
+11030,SAVEA,Dairy Products,0
+11031,SAVEA,Beverages,0
+11031,SAVEA,Seafood,0
+11031,SAVEA,Beverages,0
+11031,SAVEA,Grains & Cereals,0
+11031,SAVEA,Dairy Products,0
+11032,WHITC,Seafood,0
+11032,WHITC,Beverages,0
+11032,WHITC,Dairy Products,0
+11033,RICSU,Meat & Poultry,0
+11033,RICSU,Dairy Products,0
+11034,OLDWO,Confections,0
+11034,OLDWO,Condiments,0
+11034,OLDWO,Condiments,0
+11035,SUPRD,Beverages,0
+11035,SUPRD,Beverages,0
+11035,SUPRD,Grains & Cereals,0
+11035,SUPRD,Meat & Poultry,0
+11036,DRACD,Seafood,0
+11036,DRACD,Dairy Products,0
+11037,GODOS,Beverages,0
+11038,SUPRD,Seafood,0
+11038,SUPRD,Grains & Cereals,0
+11038,SUPRD,Dairy Products,0
+11039,LINOD,Produce,0
+11039,LINOD,Beverages,0
+11039,LINOD,Confections,0
+11039,LINOD,Grains & Cereals,0
+11040,GREAL,Confections,0
+11041,CHOPS,Beverages,0
+11041,CHOPS,Condiments,0
+11042,COMMI,Condiments,0
+11042,COMMI,Condiments,0
+11043,SPECD,Dairy Products,0
+11044,WOLZA,Confections,0
+11045,BOTTM,Dairy Products,0
+11045,BOTTM,Produce,0
+11046,WANDK,Dairy Products,0
+11046,WANDK,Dairy Products,0
+11046,WANDK,Beverages,0
+11047,EASTC,Beverages,0
+11047,EASTC,Condiments,0
+11048,BOTTM,Confections,0
+11049,GOURL,Beverages,0
+11049,GOURL,Dairy Products,0
+11050,FOLKO,Beverages,0
+11051,LAMAI,Beverages,0
+11052,HANAR,Beverages,0
+11052,HANAR,Condiments,0
+11053,PICCO,Seafood,0
+11053,PICCO,Dairy Products,0
+11053,PICCO,Grains & Cereals,0
+11054,CACTU,Dairy Products,0
+11054,CACTU,Beverages,0
+11055,HILAA,Beverages,0
+11055,HILAA,Confections,0
+11055,HILAA,Produce,0
+11055,HILAA,Grains & Cereals,0
+11056,EASTC,Produce,0
+11056,EASTC,Meat & Poultry,0
+11056,EASTC,Dairy Products,0
+11057,NORTS,Beverages,0
+11058,BLAUS,Confections,0
+11058,BLAUS,Dairy Products,0
+11058,BLAUS,Condiments,0
+11059,RICAR,Seafood,0
+11059,RICAR,Meat & Poultry,0
+11059,RICAR,Dairy Products,0
+11060,FRANS,Dairy Products,0
+11060,FRANS,Condiments,0
+11061,GREAL,Dairy Products,0
+11062,REGGC,Meat & Poultry,0
+11062,REGGC,Beverages,0
+11063,HUNGO,Beverages,0
+11063,HUNGO,Seafood,0
+11063,HUNGO,Seafood,0
+11064,SAVEA,Meat & Poultry,0
+11064,SAVEA,Seafood,0
+11064,SAVEA,Meat & Poultry,0
+11064,SAVEA,Meat & Poultry,0
+11064,SAVEA,Confections,0
+11065,LILAS,Seafood,0
+11065,LILAS,Meat & Poultry,0
+11066,WHITC,Confections,0
+11066,WHITC,Confections,0
+11066,WHITC,Beverages,0
+11067,DRACD,Seafood,0
+11068,QUEEN,Produce,0
+11068,QUEEN,Beverages,0
+11068,QUEEN,Condiments,0
+11069,TORTU,Beverages,0
+11070,LEHMS,Beverages,0
+11070,LEHMS,Beverages,0
+11070,LEHMS,Confections,0
+11070,LEHMS,Dairy Products,0
+11071,LILAS,Produce,0
+11071,LILAS,Seafood,0
+11072,ERNSH,Beverages,0
+11072,ERNSH,Seafood,0
+11072,ERNSH,Confections,0
+11072,ERNSH,Grains & Cereals,0
+11073,PERIC,Dairy Products,0
+11073,PERIC,Beverages,0
+11074,SIMOB,Confections,0
+11075,RICSU,Beverages,0
+11075,RICSU,Seafood,0
+11075,RICSU,Beverages,0
+11076,BONAP,Condiments,0
+11076,BONAP,Produce,0
+11076,BONAP,Confections,0
+11077,RATTC,Beverages,0
+11077,RATTC,Condiments,0
+11077,RATTC,Condiments,0
+11077,RATTC,Condiments,0
+11077,RATTC,Produce,0
+11077,RATTC,Condiments,0
+11077,RATTC,Seafood,0
+11077,RATTC,Dairy Products,0
+11077,RATTC,Seafood,0
+11077,RATTC,Produce,0
+11077,RATTC,Confections,0
+11077,RATTC,Confections,0
+11077,RATTC,Grains & Cereals,0
+11077,RATTC,Dairy Products,0
+11077,RATTC,Beverages,0
+11077,RATTC,Seafood,0
+11077,RATTC,Seafood,0
+11077,RATTC,Grains & Cereals,0
+11077,RATTC,Meat & Poultry,0
+11077,RATTC,Dairy Products,0
+11077,RATTC,Grains & Cereals,0
+11077,RATTC,Condiments,0
+11077,RATTC,Seafood,0
+11077,RATTC,Beverages,0
+11077,RATTC,Condiments,0

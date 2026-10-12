@@ -1,0 +1,90 @@
+"customer_id","company_name","city","country","first_order_date","last_order_date","total_transaksi","total_belanja","recency_days","avg_order_value","is_churn"
+ALFKI,Alfreds Futterkiste,Berlin,Germany,2014-08-25,2015-04-09,6,4273.00,27,712.17,0
+ANATR,Ana Trujillo Emparedados Y Helados,Mexico City,Mexico,2013-09-18,2015-03-04,4,1402.95,63,350.74,0
+ANTON,Antonio Moreno Taquer�A,Mexico City,Mexico,2013-11-27,2015-01-28,7,7023.98,98,1003.43,1
+AROUT,Around The Horn,London,UK,2013-11-15,2015-04-10,13,13390.65,26,1030.05,0
+BERGS,Berglunds Snabbk�P,Lule�,Sweden,2013-08-12,2015-03-04,18,24927.58,63,1384.87,0
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,2014-04-09,2015-04-29,7,3239.80,7,462.83,0
+BLONP,Blondesddsl P�Re Et Fils,Strasbourg,France,2013-07-25,2015-01-12,11,18534.08,114,1684.92,1
+BOLID,B�Lido Comidas Preparadas,Madrid,Spain,2013-10-10,2015-03-24,3,4232.85,43,1410.95,0
+BONAP,Bon App',Marseille,France,2013-10-16,2015-05-06,17,21963.25,0,1291.96,0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,2013-12-20,2015-04-24,14,20801.60,12,1485.83,0
+BSBEV,B'S Beverages,London,UK,2013-08-26,2015-04-14,10,6089.90,22,608.99,0
+CACTU,Cactus Comidas Para Llevar,Buenos Aires,Argentina,2014-04-29,2015-04-28,6,1814.80,8,302.47,0
+CENTC,Centro Comercial Moctezuma,Mexico City,Mexico,2013-07-18,2013-07-18,1,100.80,657,100.80,1
+CHOPS,Chop-Suey Chinese,Bern,Switzerland,2013-07-11,2015-04-22,8,12348.88,14,1543.61,0
+COMMI,Com�Rcio Mineiro,Sao Paulo,Brazil,2013-08-27,2015-04-22,5,3810.75,14,762.15,0
+CONSH,Consolidated Holdings,London,UK,2014-02-04,2015-01-23,3,1719.10,103,573.03,1
+DRACD,Drachenblut Delikatessen,Aachen,Germany,2013-11-26,2015-05-04,6,3763.21,2,627.20,0
+DUMON,Du Monde Entier,Nantes,France,2013-09-20,2015-02-16,4,1615.90,79,403.98,0
+EASTC,Eastern Connection,London,UK,2013-11-26,2015-04-28,8,14761.03,8,1845.13,0
+ERNSH,Ernst Handel,Graz,Austria,2013-07-17,2015-05-05,30,104874.98,1,3495.83,0
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,2013-11-06,2014-10-31,7,4107.55,187,586.79,1
+FOLIG,Folies Gourmandes,Lille,France,2014-01-08,2014-12-22,5,11666.90,135,2333.38,1
+FOLKO,Folk Och F� Hb,Br�cke,Sweden,2013-07-24,2015-04-27,19,29567.56,9,1556.19,0
+FRANK,Frankenversand,M�nchen,Germany,2013-07-29,2015-04-09,15,26656.56,27,1777.10,0
+FRANR,France Restauration,Nantes,France,2014-09-17,2015-03-24,3,3172.16,43,1057.39,0
+FRANS,Franchi S.P.A.,Torino,Italy,2014-01-22,2015-04-30,6,1545.70,6,257.62,0
+FURIB,Furia Bacalhau E Frutos Do Mar,Lisboa,Portugal,2013-10-14,2015-03-19,8,6427.42,48,803.43,0
+GALED,Galer�A Del Gastr�Nomo,Barcelona,Spain,2013-11-28,2015-03-05,5,836.70,62,167.34,0
+GODOS,Godos Cocina T�Pica,Sevilla,Spain,2013-09-11,2015-04-21,10,11446.36,15,1144.64,0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,2014-01-23,2015-04-24,9,8414.13,12,934.90,0
+GREAL,Great Lakes Food Market,Eugene,USA,2014-05-06,2015-04-30,11,18507.45,6,1682.50,0
+GROSR,Grosella-Restaurante,Caracas,Venezuela,2013-07-30,2014-12-18,2,1488.70,139,744.35,1
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,2013-07-08,2015-04-27,14,32841.37,9,2345.81,0
+HILAA,Hilarion-Abastos,San Crist�bal,Venezuela,2013-07-16,2015-04-28,18,22768.76,8,1264.93,0
+HUNGC,Hungry Coyote Import Store,Elgin,USA,2013-12-06,2014-09-08,5,3063.20,240,612.64,1
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,2013-09-05,2015-04-30,19,49979.91,6,2630.52,0
+ISLAT,Island Trading,Cowes,UK,2013-09-26,2015-03-06,10,6146.30,61,614.63,0
+KOENE,K�Niglich Essen,Brandenburg,Germany,2013-10-07,2015-04-16,14,30908.38,20,2207.74,0
+LACOR,La Corne D'Abondance,Versailles,France,2015-01-29,2015-03-24,4,1992.05,43,498.01,0
+LAMAI,La Maison D'Asie,Toulouse,France,2013-11-11,2015-04-27,14,9328.20,9,666.30,0
+LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,2014-04-03,2015-01-01,3,522.50,125,174.17,1
+LAZYK,Lazy K Kountry Store,Walla Walla,USA,2014-03-21,2014-05-22,2,357.00,349,178.50,1
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,2013-08-13,2015-05-05,15,19261.41,1,1284.09,0
+LETSS,Let'S Stop N Shop,San Francisco,USA,2014-06-25,2015-02-12,4,3076.47,83,769.12,0
+LILAS,Lila-Supermercado,Barquisimeto,Venezuela,2013-08-16,2015-05-05,14,16076.60,1,1148.33,0
+LINOD,Lino-Delicateses,I. de Margarita,Venezuela,2014-01-06,2015-04-21,12,16476.56,15,1373.05,0
+LONEP,Lonesome Pine Restaurant,Portland,USA,2013-09-17,2015-04-13,8,4258.60,23,532.33,0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,2013-08-07,2015-03-16,10,7176.21,51,717.62,0
+MAISD,Maison Dewey,Bruxelles,Belgium,2014-05-07,2015-04-07,7,9736.08,29,1390.87,0
+MEREP,M�Re Paillarde,Montr�al,Canada,2013-10-17,2014-10-30,13,28872.19,188,2220.94,1
+MORGK,Morgenstern Gesundkost,Leipzig,Germany,2013-08-09,2015-03-12,5,5042.20,55,1008.44,0
+NORTS,North/South,London,UK,2014-04-24,2015-04-29,3,649.00,7,216.33,0
+OCEAN,Oc�Ano Atl�Ntico Ltda.,Buenos Aires,Argentina,2014-01-09,2015-03-30,5,3460.20,37,692.04,0
+OLDWO,Old World Delicatessen,Anchorage,USA,2013-09-13,2015-04-20,10,15177.46,16,1517.75,0
+OTTIK,Ottilies K�Seladen,K�ln,Germany,2013-07-19,2015-04-14,10,12496.20,22,1249.62,0
+PERIC,Pericles Comidas Cl�Sicas,Mexico City,Mexico,2013-10-04,2015-05-05,6,4242.20,1,707.03,0
+PICCO,Piccolo Und Mehr,Salzburg,Austria,2013-11-13,2015-04-27,10,23128.86,9,2312.89,0
+PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,2013-10-23,2015-04-08,5,5044.94,28,1008.99,0
+QUEDE,Que Del�Cia,Rio de Janeiro,Brazil,2013-07-19,2015-03-31,9,6664.81,36,740.53,0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,2013-12-04,2015-05-04,13,25717.50,2,1978.27,0
+QUICK,Quick-Stop,Cunewalde,Germany,2013-08-05,2015-04-14,28,110277.31,22,3938.48,0
+RANCH,Rancho Grande,Buenos Aires,Argentina,2014-02-17,2015-04-13,5,2844.10,23,568.82,0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,2013-07-22,2015-05-06,18,51097.80,0,2838.77,0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,2013-08-23,2015-04-30,12,7048.24,6,587.35,0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,2013-08-22,2015-04-29,11,12450.80,7,1131.89,0
+RICSU,Richter Supermarkt,Gen�ve,Switzerland,2013-07-12,2015-05-06,10,19343.78,0,1934.38,0
+ROMEY,Romero Y Tomillo,Madrid,Spain,2013-08-14,2015-04-09,5,1467.29,27,293.46,0
+SANTG,Sant� Gourmet,Stavern,Norway,2013-12-18,2015-04-10,6,5735.15,26,955.86,0
+SAVEA,Save-A-Lot Markets,Boise,USA,2013-10-08,2015-05-01,31,104361.95,5,3366.51,0
+SEVES,Seven Seas Imports,London,UK,2013-11-21,2015-02-04,9,16215.33,91,1801.70,1
+SIMOB,Simons Bistro,Kobenhavn,Denmark,2013-10-29,2015-05-06,7,16817.10,0,2402.44,0
+SPECD,Sp�Cialit�S Du Monde,Paris,France,2014-11-12,2015-04-22,4,2423.35,14,605.84,0
+SPLIR,Split Rail Beer & Ale,Lander,USA,2013-08-01,2015-03-25,9,11441.63,42,1271.29,0
+SUPRD,Supr�Mes D�Lices,Charleroi,Belgium,2013-07-09,2015-04-21,12,24088.78,15,2007.40,0
+THEBI,The Big Cheese,Portland,USA,2013-09-20,2015-04-01,4,3361.00,35,840.25,0
+THECR,The Cracker Box,Butte,USA,2014-08-07,2015-04-06,3,1947.24,30,649.08,0
+TOMSP,Toms Spezialit�Ten,M�nster,Germany,2013-07-05,2015-03-23,6,4778.14,44,796.36,0
+TORTU,Tortuga Restaurante,Mexico City,Mexico,2013-08-08,2015-05-04,10,10812.15,2,1081.22,0
+TRADH,Tradi��O Hipermercados,Sao Paulo,Brazil,2013-08-28,2015-01-19,6,6850.66,107,1141.78,1
+TRAIH,Trail'S Head Gourmet Provisioners,Kirkland,USA,2014-06-19,2015-01-08,3,1571.20,118,523.73,1
+VAFFE,Vaffeljernet,�rhus,Denmark,2013-11-28,2015-04-02,11,15843.92,34,1440.36,0
+VICTE,Victuailles En Stock,Lyon,France,2013-07-08,2015-01-23,10,9182.43,103,918.24,1
+VINET,Vins Et Alcools Chevalier,Reims,France,2013-07-04,2014-11-12,5,1480.00,175,296.00,1
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,2013-09-09,2015-04-23,10,9588.42,13,958.84,0
+WARTH,Wartian Herkku,Oulu,Finland,2013-07-26,2015-04-15,15,15648.70,21,1043.25,0
+WELLI,Wellington Importadora,Resende,Brazil,2013-07-15,2015-03-09,9,6068.20,58,674.24,0
+WHITC,White Clover Markets,Seattle,USA,2013-07-31,2015-05-01,14,27363.60,5,1954.54,0
+WILMK,Wilman Kala,Helsinki,Finland,2014-07-30,2015-04-07,7,3161.35,29,451.62,0
+WOLZA,Wolski  Zajazd,Warszawa,Poland,2013-12-05,2015-04-23,7,3531.95,13,504.56,0
