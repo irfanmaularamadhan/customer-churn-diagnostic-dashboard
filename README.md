@@ -32,16 +32,22 @@ Dataset yang digunakan dalam proyek ini diperoleh dari Kaggle:
 - Churn Rate: 17.98%
 - Lost Revenue akibat Churn: $11,275,562.00
 
+## Tampilan Dashboard
+
+### 1. Page 1 - Executive Overview
+Menampilkan indikator kinerja utama (KPI), distribusi churn pelanggan, analisis 10 pelanggan teratas, tren performa penjualan bulanan, serta tingkat recency pelanggan.
+![Executive Overview](documentation/Page%201.png)
+
+### 2. Page 2 - Root Cause Analysis
+Menampilkan analisis mendalam mengenai keterlambatan pengiriman, frekuensi pemesanan, rata-rata nilai transaksi per status pelanggan, biaya pengiriman, distribusi kategori produk, dan tingkat diskon.
+![Root Cause Analysis](documentation/Page%202.png)
+
 ## Struktur Repositori
 - Processed Query Data/ : Berisi tabel-tabel hasil transformasi query dan view agregasi data.
 - Raw Dataset/ : Berisi data mentah asli sebelum proses pembersihan dan transformasi.
 - script/ : Berisi skrip SQL dan skrip pendukung pengolahan data.
 - documentation/ : Berisi dokumentasi visual dashboard (.png) dan ringkasan eksekutif (.pdf).
 - Customer Churn & Diagnostic Analytics Dashboard.pbix : File laporan utama Power BI.
-
-## Tampilan Dashboard
-1. Page 1 - Executive Overview: Menampilkan indikator kinerja utama (KPI), distribusi churn pelanggan, analisis 10 pelanggan teratas, tren performa penjualan bulanan, serta tingkat recency pelanggan.
-2. Page 2 - Root Cause Analysis: Menampilkan analisis mendalam mengenai keterlambatan pengiriman, frekuensi pemesanan, rata-rata nilai transaksi per status pelanggan, biaya pengiriman, distribusi kategori produk, dan tingkat diskon.
 
 ## Penjelasan Model Data dan Transformasi
 - Normalisasi Skala Data: Dilakukan transformasi perkalian dengan faktor 100 pada kolom total_belanja di Power Query untuk menyelaraskan pembacaan format desimal antara sumber data asal dan Power BI.
